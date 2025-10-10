@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE5E" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FE5E"/>
+  <anchor x="750" y="-9" name="LSB"/>
+  <anchor x="250" y="-9" name="RSB"/>
+  <outline>
+    <contour>
+      <point x="636" y="66" type="line"/>
+      <point x="636" y="524" type="line"/>
+      <point x="491" y="658" type="line"/>
+      <point x="420" y="658" type="line"/>
+      <point x="580" y="508" type="line"/>
+      <point x="580" y="82" type="line"/>
+      <point x="420" y="-69" type="line"/>
+      <point x="491" y="-69" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

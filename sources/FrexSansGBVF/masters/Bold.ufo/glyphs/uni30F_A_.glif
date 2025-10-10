@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni30FA" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="30FA"/>
+  <anchor x="500" y="-112" name="BSB"/>
+  <anchor x="24" y="0" name="LSB"/>
+  <anchor x="1010" y="0" name="RSB"/>
+  <anchor x="500" y="867" name="TSB"/>
+  <outline>
+    <contour>
+      <point x="301" y="-59" type="line"/>
+      <point x="695" y="54"/>
+      <point x="836" y="267"/>
+      <point x="836" y="734" type="curve"/>
+      <point x="103" y="734" type="line"/>
+      <point x="103" y="609" type="line"/>
+      <point x="731" y="609" type="line"/>
+      <point x="701" y="643" type="line"/>
+      <point x="693" y="305"/>
+      <point x="571" y="156"/>
+      <point x="243" y="71" type="curve"/>
+      <point x="301" y="-59" type="line"/>
+    </contour>
+    <contour>
+      <point x="709" y="339" type="line"/>
+      <point x="709" y="462" type="line"/>
+      <point x="136" y="462" type="line"/>
+      <point x="136" y="339" type="line"/>
+    </contour>
+    <contour>
+      <point x="889" y="663" type="line"/>
+      <point x="862" y="717"/>
+      <point x="824" y="777"/>
+      <point x="792" y="825" type="curve"/>
+      <point x="719" y="790" type="line"/>
+      <point x="753" y="741"/>
+      <point x="785" y="684"/>
+      <point x="814" y="628" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1000" y="717" type="line"/>
+      <point x="974" y="771"/>
+      <point x="938" y="832"/>
+      <point x="906" y="880" type="curve"/>
+      <point x="834" y="845" type="line"/>
+      <point x="867" y="796"/>
+      <point x="900" y="739"/>
+      <point x="930" y="682" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

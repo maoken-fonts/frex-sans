@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni6771" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="6771"/>
+  <outline>
+    <contour>
+      <point x="549" y="-80" type="line"/>
+      <point x="549" y="179" type="line"/>
+      <point x="559" y="179" type="line"/>
+      <point x="577" y="60"/>
+      <point x="725" y="7"/>
+      <point x="926" y="-76" type="curve"/>
+      <point x="974" y="31" type="line"/>
+      <point x="746" y="114"/>
+      <point x="610" y="175"/>
+      <point x="569" y="283" type="curve"/>
+      <point x="549" y="283" type="line"/>
+      <point x="549" y="840" type="line"/>
+      <point x="433" y="840" type="line"/>
+      <point x="433" y="283" type="line"/>
+      <point x="413" y="283" type="line"/>
+      <point x="372" y="175"/>
+      <point x="254" y="114"/>
+      <point x="26" y="31" type="curve"/>
+      <point x="78" y="-75" type="line"/>
+      <point x="279" y="7"/>
+      <point x="405" y="60"/>
+      <point x="423" y="179" type="curve"/>
+      <point x="433" y="179" type="line"/>
+      <point x="433" y="-80" type="line"/>
+    </contour>
+    <contour>
+      <point x="233" y="362" type="line"/>
+      <point x="767" y="362" type="line"/>
+      <point x="767" y="300" type="line"/>
+      <point x="233" y="300" type="line"/>
+    </contour>
+    <contour>
+      <point x="885" y="209" type="line"/>
+      <point x="885" y="600" type="line"/>
+      <point x="115" y="600" type="line"/>
+      <point x="115" y="209" type="line"/>
+    </contour>
+    <contour>
+      <point x="233" y="509" type="line"/>
+      <point x="767" y="509" type="line"/>
+      <point x="767" y="448" type="line"/>
+      <point x="233" y="448" type="line"/>
+    </contour>
+    <contour>
+      <point x="955" y="659" type="line"/>
+      <point x="955" y="763" type="line"/>
+      <point x="45" y="763" type="line"/>
+      <point x="45" y="659" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>7</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2121" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2121"/>
+  <outline>
+    <contour>
+      <point x="397" y="713" type="line"/>
+      <point x="397" y="733" type="line"/>
+      <point x="61" y="733" type="line"/>
+      <point x="61" y="713" type="line"/>
+      <point x="218" y="713" type="line"/>
+      <point x="218" y="0" type="line"/>
+      <point x="240" y="0" type="line"/>
+      <point x="240" y="713" type="line"/>
+    </contour>
+    <contour>
+      <point x="663" y="0" type="line"/>
+      <point x="663" y="20" type="line"/>
+      <point x="440" y="20" type="line"/>
+      <point x="440" y="261" type="line"/>
+      <point x="651" y="261" type="line"/>
+      <point x="651" y="281" type="line"/>
+      <point x="440" y="281" type="line"/>
+      <point x="440" y="511" type="line"/>
+      <point x="663" y="511" type="line"/>
+      <point x="663" y="531" type="line"/>
+      <point x="418" y="531" type="line"/>
+      <point x="418" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="939" y="0" type="line"/>
+      <point x="939" y="20" type="line"/>
+      <point x="741" y="20" type="line"/>
+      <point x="741" y="531" type="line"/>
+      <point x="719" y="531" type="line"/>
+      <point x="719" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>90</integer>
+        <key>weight</key>
+        <integer>-150</integer>
+        <key>width</key>
+        <real>56.15</real>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

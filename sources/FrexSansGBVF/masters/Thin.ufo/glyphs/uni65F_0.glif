@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni65F0" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="65F0"/>
+  <outline>
+    <contour>
+      <point x="343" y="449" type="line"/>
+      <point x="97" y="449" type="line"/>
+      <point x="97" y="431" type="line"/>
+      <point x="343" y="431" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="771" type="line"/>
+      <point x="90" y="-29" type="line"/>
+      <point x="110" y="-29" type="line"/>
+      <point x="110" y="71" type="line"/>
+      <point x="353" y="71" type="line"/>
+      <point x="353" y="771" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="753" type="line"/>
+      <point x="333" y="753" type="line"/>
+      <point x="333" y="89" type="line"/>
+      <point x="110" y="89" type="line"/>
+    </contour>
+    <contour>
+      <point x="683" y="-70" type="line"/>
+      <point x="683" y="761" type="line"/>
+      <point x="663" y="761" type="line"/>
+      <point x="663" y="-70" type="line"/>
+    </contour>
+    <contour>
+      <point x="950" y="414" type="line"/>
+      <point x="950" y="432" type="line"/>
+      <point x="409" y="432" type="line"/>
+      <point x="409" y="414" type="line"/>
+    </contour>
+    <contour>
+      <point x="932" y="753" type="line"/>
+      <point x="932" y="771" type="line"/>
+      <point x="438" y="771" type="line"/>
+      <point x="438" y="753" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Bold</key>
+        <string>foreground</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>Bold</key>
+        <string>&lt;default&gt;</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

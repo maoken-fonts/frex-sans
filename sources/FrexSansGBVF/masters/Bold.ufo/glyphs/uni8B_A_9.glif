@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni8BA9" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="8BA9"/>
+  <outline>
+    <contour>
+      <point x="960" y="-50" type="line"/>
+      <point x="960" y="69" type="line"/>
+      <point x="689" y="69" type="line"/>
+      <point x="689" y="444" type="line"/>
+      <point x="927" y="444" type="line"/>
+      <point x="927" y="559" type="line"/>
+      <point x="689" y="559" type="line"/>
+      <point x="689" y="840" type="line"/>
+      <point x="565" y="840" type="line"/>
+      <point x="565" y="69" type="line"/>
+      <point x="344" y="69" type="line"/>
+      <point x="344" y="-50" type="line"/>
+    </contour>
+    <contour>
+      <point x="320" y="684" type="line"/>
+      <point x="259" y="742"/>
+      <point x="194" y="798"/>
+      <point x="136" y="840" type="curve"/>
+      <point x="57" y="754" type="line"/>
+      <point x="113" y="713"/>
+      <point x="189" y="648"/>
+      <point x="242" y="597" type="curve"/>
+    </contour>
+    <contour>
+      <point x="152" y="164" type="line" smooth="yes"/>
+      <point x="152" y="124"/>
+      <point x="148" y="114"/>
+      <point x="120" y="97" type="curve"/>
+      <point x="274" y="96" type="line"/>
+      <point x="274" y="568" type="line"/>
+      <point x="152" y="568" type="line"/>
+    </contour>
+    <contour>
+      <point x="168" y="-13" type="line"/>
+      <point x="253" y="34"/>
+      <point x="370" y="111"/>
+      <point x="434" y="160" type="curve"/>
+      <point x="395" y="266" type="line"/>
+      <point x="317" y="208"/>
+      <point x="226" y="152"/>
+      <point x="120" y="97" type="curve"/>
+    </contour>
+    <contour>
+      <point x="42" y="458" type="line"/>
+      <point x="247" y="458" type="line"/>
+      <point x="247" y="568" type="line"/>
+      <point x="42" y="568" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

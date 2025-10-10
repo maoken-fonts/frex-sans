@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni5E08" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="5E08"/>
+  <outline>
+    <contour>
+      <point x="104" y="-83" type="line"/>
+      <point x="270" y="24"/>
+      <point x="329" y="149"/>
+      <point x="329" y="373" type="curve" smooth="yes"/>
+      <point x="329" y="826" type="line"/>
+      <point x="268" y="826" type="line"/>
+      <point x="268" y="374" type="line" smooth="yes"/>
+      <point x="268" y="164"/>
+      <point x="215" y="66"/>
+      <point x="69" y="-31" type="curve"/>
+    </contour>
+    <contour>
+      <point x="164" y="246" type="line"/>
+      <point x="164" y="729" type="line"/>
+      <point x="104" y="729" type="line"/>
+      <point x="104" y="246" type="line"/>
+    </contour>
+    <contour>
+      <point x="641" y="-74" type="line"/>
+      <point x="703" y="-74" type="line"/>
+      <point x="703" y="760" type="line"/>
+      <point x="641" y="760" type="line"/>
+    </contour>
+    <contour>
+      <point x="400" y="737" type="line"/>
+      <point x="953" y="737" type="line"/>
+      <point x="953" y="792" type="line"/>
+      <point x="400" y="792" type="line"/>
+    </contour>
+    <contour>
+      <point x="431" y="30" type="line"/>
+      <point x="494" y="30" type="line"/>
+      <point x="494" y="531" type="line"/>
+      <point x="858" y="531" type="line"/>
+      <point x="858" y="104" type="line"/>
+      <point x="758" y="104" type="line"/>
+      <point x="770" y="46" type="line"/>
+      <point x="845" y="46" type="line" smooth="yes"/>
+      <point x="900" y="46"/>
+      <point x="921" y="67"/>
+      <point x="921" y="125" type="curve" smooth="yes"/>
+      <point x="921" y="589" type="line"/>
+      <point x="431" y="589" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

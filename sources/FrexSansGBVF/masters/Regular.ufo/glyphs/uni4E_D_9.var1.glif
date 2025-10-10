@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni4ED9.var1" format="2">
+  <advance width="1000.0" height="1000"/>
+  <outline>
+    <contour>
+      <point x="608.0" y="835.0" type="line"/>
+      <point x="608.0" y="-57.0" type="line"/>
+      <point x="672.0" y="-57.0" type="line"/>
+      <point x="672.0" y="835.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="229.0" y="-74.0" type="line"/>
+      <point x="229.0" y="654.0" type="line"/>
+      <point x="166.0" y="550.0" type="line"/>
+      <point x="166.0" y="-74.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="265.0" y="845.0" type="line"/>
+      <point x="215.0" y="649.0"/>
+      <point x="144.0" y="511.0"/>
+      <point x="30.0" y="395.0" type="curve"/>
+      <point x="68.0" y="341.0" type="line"/>
+      <point x="170.0" y="437.0"/>
+      <point x="271.0" y="605.0"/>
+      <point x="323.0" y="826.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="804.8564795260678" y="-66.16183275025392" type="line"/>
+      <point x="834.2603842772245" y="-66.16183275025392"/>
+      <point x="847.2327350277042" y="-57.89211149983072"/>
+      <point x="847.2327350277042" y="-36.542150998758615" type="curve"/>
+      <point x="853.3406235278733" y="-36.542150998758615" type="line"/>
+      <point x="853.3406235278733" y="-71.16183275025392" type="line"/>
+      <point x="913.3905050310896" y="-71.16183275025392" type="line"/>
+      <point x="913.3905050310896" y="668.0797889296298" type="line"/>
+      <point x="853.3406235278733" y="668.0797889296298" type="line"/>
+      <point x="853.3406235278733" y="-10.922469247263308" type="line"/>
+      <point x="429.51043900236994" y="-10.922469247263308" type="line"/>
+      <point x="429.51043900236994" y="668.0797889296298" type="line"/>
+      <point x="369.4605574991536" y="668.0797889296298" type="line"/>
+      <point x="369.4605574991536" y="-66.16183275025392" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>8</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

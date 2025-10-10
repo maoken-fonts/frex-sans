@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2F33" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2F33"/>
+  <outline>
+    <contour>
+      <point x="662" y="283" type="line"/>
+      <point x="732" y="198"/>
+      <point x="819" y="57"/>
+      <point x="878" y="-59" type="curve"/>
+      <point x="937" y="-26" type="line"/>
+      <point x="878" y="87"/>
+      <point x="786" y="231"/>
+      <point x="715" y="319" type="curve"/>
+    </contour>
+    <contour>
+      <point x="825" y="109" type="line"/>
+      <point x="630" y="72"/>
+      <point x="318" y="46"/>
+      <point x="65" y="35" type="curve"/>
+      <point x="73" y="-27" type="line"/>
+      <point x="313" y="-16"/>
+      <point x="629" y="11"/>
+      <point x="844" y="52" type="curve"/>
+    </contour>
+    <contour>
+      <point x="299" y="444" type="line"/>
+      <point x="395" y="545"/>
+      <point x="487" y="665"/>
+      <point x="555" y="779" type="curve"/>
+      <point x="496" y="814" type="line"/>
+      <point x="438" y="712"/>
+      <point x="344" y="586"/>
+      <point x="251" y="490" type="curve"/>
+    </contour>
+    <contour>
+      <point x="483" y="291" type="line"/>
+      <point x="392" y="389"/>
+      <point x="240" y="518"/>
+      <point x="150" y="583" type="curve"/>
+      <point x="109" y="534" type="line"/>
+      <point x="207" y="459"/>
+      <point x="345" y="346"/>
+      <point x="436" y="247" type="curve"/>
+    </contour>
+    <contour>
+      <point x="268" y="21" type="line"/>
+      <point x="462" y="178"/>
+      <point x="653" y="418"/>
+      <point x="772" y="598" type="curve"/>
+      <point x="715" y="637" type="line"/>
+      <point x="593" y="444"/>
+      <point x="392" y="199"/>
+      <point x="188" y="35" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

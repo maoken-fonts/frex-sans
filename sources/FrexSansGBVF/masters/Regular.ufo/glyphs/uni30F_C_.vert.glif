@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni30FC.vert" format="2">
+  <advance width="1000" height="1000"/>
+  <anchor x="499" y="-112" name="BSB"/>
+  <anchor x="501" y="872" name="TSB"/>
+  <outline>
+    <contour>
+      <point x="537" y="783" type="line"/>
+      <point x="463" y="783" type="line"/>
+      <point x="464" y="-22" type="line"/>
+      <point x="537" y="-22" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

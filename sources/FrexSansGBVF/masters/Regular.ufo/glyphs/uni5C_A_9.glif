@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni5CA9" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="5CA9"/>
+  <outline>
+    <contour>
+      <point x="943" y="493" type="line"/>
+      <point x="57" y="493" type="line"/>
+      <point x="57" y="433" type="line"/>
+      <point x="943" y="433" type="line"/>
+    </contour>
+    <contour>
+      <point x="74" y="96" type="line"/>
+      <point x="224" y="179"/>
+      <point x="365" y="312"/>
+      <point x="430" y="461" type="curve"/>
+      <point x="366" y="479" type="line"/>
+      <point x="307" y="345"/>
+      <point x="192" y="235"/>
+      <point x="38" y="152" type="curve"/>
+    </contour>
+    <contour>
+      <point x="881" y="589" type="line"/>
+      <point x="881" y="800" type="line"/>
+      <point x="820" y="800" type="line"/>
+      <point x="820" y="644" type="line"/>
+      <point x="523" y="644" type="line"/>
+      <point x="523" y="834" type="line"/>
+      <point x="460" y="834" type="line"/>
+      <point x="460" y="644" type="line"/>
+      <point x="179" y="644" type="line"/>
+      <point x="179" y="800" type="line"/>
+      <point x="117" y="800" type="line"/>
+      <point x="117" y="589" type="line"/>
+    </contour>
+    <contour>
+      <point x="231" y="275" type="line"/>
+      <point x="231" y="-74" type="line"/>
+      <point x="295" y="-74" type="line"/>
+      <point x="295" y="-26" type="line"/>
+      <point x="789" y="-26" type="line"/>
+      <point x="789" y="-74" type="line"/>
+      <point x="854" y="-74" type="line"/>
+      <point x="854" y="275" type="line"/>
+    </contour>
+    <contour>
+      <point x="295" y="216" type="line"/>
+      <point x="789" y="216" type="line"/>
+      <point x="789" y="33" type="line"/>
+      <point x="295" y="33" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

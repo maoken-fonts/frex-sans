@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE10" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FE10"/>
+  <anchor x="500" y="380" name="BSB"/>
+  <anchor x="500" y="880" name="TSB"/>
+  <outline>
+    <contour>
+      <point x="807" y="580" type="line"/>
+      <point x="864" y="629"/>
+      <point x="898" y="703"/>
+      <point x="898" y="757" type="curve" smooth="yes"/>
+      <point x="898" y="771" type="line" smooth="yes"/>
+      <point x="898" y="806"/>
+      <point x="879" y="830"/>
+      <point x="837" y="830" type="curve" smooth="yes"/>
+      <point x="795" y="830"/>
+      <point x="776" y="806"/>
+      <point x="776" y="771" type="curve" smooth="yes"/>
+      <point x="776" y="757" type="line" smooth="yes"/>
+      <point x="776" y="730"/>
+      <point x="788" y="710"/>
+      <point x="815" y="704" type="curve"/>
+      <point x="804" y="657"/>
+      <point x="780" y="622"/>
+      <point x="740" y="580" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

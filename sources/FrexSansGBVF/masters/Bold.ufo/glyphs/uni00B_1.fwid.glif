@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni00B1.fwid" format="2">
+  <advance width="1000" height="1000"/>
+  <outline>
+    <contour>
+      <point x="562" y="154" type="line"/>
+      <point x="562" y="410" type="line"/>
+      <point x="840" y="410" type="line"/>
+      <point x="840" y="530" type="line"/>
+      <point x="562" y="530" type="line"/>
+      <point x="562" y="772" type="line"/>
+      <point x="438" y="772" type="line"/>
+      <point x="438" y="530" type="line"/>
+      <point x="160" y="530" type="line"/>
+      <point x="160" y="410" type="line"/>
+      <point x="438" y="410" type="line"/>
+      <point x="438" y="154" type="line"/>
+    </contour>
+    <contour>
+      <point x="850" y="-28" type="line"/>
+      <point x="850" y="92" type="line"/>
+      <point x="150" y="92" type="line"/>
+      <point x="150" y="-28" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

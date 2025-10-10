@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2174" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2174"/>
+  <outline>
+    <contour>
+      <point x="513" y="0" type="line"/>
+      <point x="731" y="531" type="line"/>
+      <point x="709" y="531" type="line"/>
+      <point x="567" y="184" type="line"/>
+      <point x="502" y="25" type="line"/>
+      <point x="499" y="25" type="line"/>
+      <point x="436" y="180" type="line"/>
+      <point x="292" y="531" type="line"/>
+      <point x="269" y="531" type="line"/>
+      <point x="487" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>231</integer>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

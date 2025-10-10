@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni4ED9.var1" format="2">
+  <advance width="1000.0" height="1000"/>
+  <outline>
+    <contour>
+      <point x="627.0" y="830.0" type="line"/>
+      <point x="627.0" y="-57.0" type="line"/>
+      <point x="647.0" y="-57.0" type="line"/>
+      <point x="647.0" y="830.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="207.0" y="-70.0" type="line"/>
+      <point x="207.0" y="599.0" type="line"/>
+      <point x="187.0" y="556.0" type="line"/>
+      <point x="187.0" y="-70.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="288.0" y="835.0" type="line"/>
+      <point x="233.0" y="635.0"/>
+      <point x="159.0" y="493.0"/>
+      <point x="39.0" y="374.0" type="curve"/>
+      <point x="52.0" y="358.0" type="line"/>
+      <point x="176.0" y="483.0"/>
+      <point x="251.0" y="629.0"/>
+      <point x="307.0" y="830.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="862.3525561449047" y="-63.0" type="line"/>
+      <point x="877.3525561449047" y="-63.0"/>
+      <point x="884.3525561449047" y="-60.0"/>
+      <point x="884.3525561449047" y="-52.0" type="curve"/>
+      <point x="888.3525561449047" y="-52.0" type="line"/>
+      <point x="888.3525561449047" y="-68.0" type="line"/>
+      <point x="908.3525561449047" y="-68.0" type="line"/>
+      <point x="908.3525561449047" y="654.4475792799908" type="line"/>
+      <point x="888.3525561449047" y="654.4475792799908" type="line"/>
+      <point x="888.3525561449047" y="-45.0" type="line"/>
+      <point x="400.0" y="-45.0" type="line"/>
+      <point x="400.0" y="654.4475792799908" type="line"/>
+      <point x="380.0" y="654.4475792799908" type="line"/>
+      <point x="380.0" y="-63.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>8</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Thin</key>
+        <string>foreground</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>Thin</key>
+        <string>&lt;default&gt;</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u20086" format="2">
+  <advance width="1000"/>
+  <unicode hex="2E81"/>
+  <unicode hex="20086"/>
+  <outline>
+    <contour>
+      <point x="73" y="-39" type="line"/>
+      <point x="181" y="95"/>
+      <point x="205" y="299"/>
+      <point x="205" y="511" type="curve" smooth="yes"/>
+      <point x="205" y="707" type="line"/>
+      <point x="448" y="713"/>
+      <point x="692" y="736"/>
+      <point x="905" y="783" type="curve"/>
+      <point x="898" y="801" type="line"/>
+      <point x="680" y="753"/>
+      <point x="433" y="730"/>
+      <point x="185" y="725" type="curve"/>
+      <point x="185" y="511" type="line" smooth="yes"/>
+      <point x="185" y="301"/>
+      <point x="159" y="100"/>
+      <point x="58" y="-27" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Bold</key>
+        <string>foreground</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>Bold</key>
+        <string>&lt;default&gt;</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

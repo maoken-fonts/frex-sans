@@ -1,0 +1,318 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+    <axes>
+        <axis
+            minimum="100"
+            maximum="700"
+            default="400"
+            tag="wght"
+            name="weight"
+        >
+            <labelname xml:lang="en">Weight</labelname>
+            <labelname xml:lang="zh">字重</labelname>
+            <map output="100" input="100"/>
+            <map output="165" input="200"/>
+            <map output="275" input="300"/>
+            <map output="360" input="400"/>
+            <map output="425" input="450"/>
+            <map output="505" input="500"/>
+            <map output="602" input="600"/>
+            <map output="700" input="700"/>
+            <labels>
+                <label uservalue="100" name="Thin"/>
+                <label uservalue="200" name="ExtraLight"/>
+                <label uservalue="300" name="Light"/>
+                <label uservalue="400" name="Regular"/>
+                <label uservalue="450" name="Text"/>
+                <label uservalue="500" name="Medium"/>
+                <label uservalue="600" name="Semibold"/>
+                <label uservalue="700" name="Bold"/>
+            </labels>
+        </axis>
+    </axes>
+    <sources>
+        <source
+            familyname="Frex Sans GB VF"
+            stylename="Bold"
+            filename="masters/Bold.ufo"
+            name="Bold"
+        >
+            <familyname xml:lang="zh">械黑 GB VF</familyname>
+            <location>
+                <dimension xvalue="700" name="weight"/>
+            </location>
+        </source>
+        <source
+            familyname="Frex Sans GB VF"
+            stylename="Regular"
+            filename="masters/Regular.ufo"
+            name="Regular"
+        >
+            <familyname xml:lang="zh">械黑 GB VF</familyname>
+            <location>
+                <dimension xvalue="360" name="weight"/>
+            </location>
+        </source>
+        <source
+            familyname="Frex Sans GB VF"
+            stylename="Thin"
+            filename="masters/Thin.ufo"
+            name="Thin"
+        >
+            <familyname xml:lang="zh">械黑 GB VF</familyname>
+            <lib copy="1"/>
+            <groups copy="1"/>
+            <info copy="1"/>
+            <features copy="1"/>
+            <location>
+                <dimension xvalue="100" name="weight"/>
+            </location>
+        </source>
+    </sources>
+    <lib>
+        <dict>
+            <key>public.skipExportGlyphs</key>
+            <array>
+                <!-- variable components -->
+                <string>C_2FFA_8FB6</string>
+                <string>C_4EBA</string>
+                <string>C_51F5</string>
+                <string>C_7E9F</string>
+                <string>C_8FB6</string>
+                <string>C_9AA8</string>
+                <string>uni53F0.LUKE</string>
+                <string>uni4E4F.MY2L</string>
+                <string>uni4E61.MY2L</string>
+            </array>
+            <key>public.fontInfo</key>
+            <dict>
+                <key>versionMajor</key>
+                <integer>1</integer>
+                <key>versionMinor</key>
+                <integer>100</integer>
+                <key>openTypeOS2CodePageRanges</key>
+                <array>
+                    <integer>0</integer>
+                    <integer>18</integer>
+                </array>
+                <key>familyName</key>
+                <string>Frex Sans GB VF</string>
+                <key>openTypeNamePreferredFamilyName</key>
+                <string>Frex Sans GB VF</string>
+                <key>openTypeNameDesigner</key>
+                <string>Frex Sans GB: The Frex Sans Project Authors (https://github.com/maoken-fonts/frex-sans#%E8%87%B4%E8%B0%A2--acknowledgements)
+Modified from IBM Plex Sans: IBM Corp. (https://www.ibm.com/plex/specs/)</string>
+                <key>openTypeNameManufacturer</key>
+                <string>The Frex Sans Project Authors</string>
+                <key>openTypeNameManufacturerURL</key>
+                <string>https://maoken.com</string>
+                <key>openTypeNameRecords</key>
+                <array>
+                    <dict>
+                        <key>encodingID</key>
+                        <integer>1</integer>
+                        <key>languageID</key>
+                        <integer>2052</integer>
+                        <key>nameID</key>
+                        <integer>0</integer>
+                        <key>platformID</key>
+                        <integer>3</integer>
+                        <key>string</key>
+                        <string>版权 2025 械黑计划小组（https://gitee.com/NightFurySL2001/flex-sc）</string>
+                    </dict>
+                    <dict>
+                        <key>encodingID</key>
+                        <integer>1</integer>
+                        <key>languageID</key>
+                        <integer>2052</integer>
+                        <key>nameID</key>
+                        <integer>1</integer>
+                        <key>platformID</key>
+                        <integer>3</integer>
+                        <key>string</key>
+                        <string>械黑 GB VF</string>
+                    </dict>
+                    <dict>
+                        <key>encodingID</key>
+                        <integer>1</integer>
+                        <key>languageID</key>
+                        <integer>2052</integer>
+                        <key>nameID</key>
+                        <integer>8</integer>
+                        <key>platformID</key>
+                        <integer>3</integer>
+                        <key>string</key>
+                        <string>械黑计划小组</string>
+                    </dict>
+                    <dict>
+                        <key>encodingID</key>
+                        <integer>1</integer>
+                        <key>languageID</key>
+                        <integer>2052</integer>
+                        <key>nameID</key>
+                        <integer>9</integer>
+                        <key>platformID</key>
+                        <integer>3</integer>
+                        <key>string</key>
+                        <string>械黑 GB：械黑计划小组（https://github.com/maoken-fonts/flex-sans#%E8%87%B4%E8%B0%A2--acknowledgements）
+修改自 IBM Plex Sans：IBM Corp.（https://www.ibm.com/plex/specs/）</string>
+                    </dict>
+                    <dict>
+                        <key>encodingID</key>
+                        <integer>1</integer>
+                        <key>languageID</key>
+                        <integer>2052</integer>
+                        <key>nameID</key>
+                        <integer>13</integer>
+                        <key>platformID</key>
+                        <integer>3</integer>
+                        <key>string</key>
+                        <string>本字型软件以 SIL 开源字型授权（SIL OFL）1.1 版授权。本授权全文及常见问题解答（FAQ）可在 https://openfontlicense.org 查阅。</string>
+                    </dict>
+                    <dict>
+                        <key>encodingID</key>
+                        <integer>1</integer>
+                        <key>languageID</key>
+                        <integer>2052</integer>
+                        <key>nameID</key>
+                        <integer>16</integer>
+                        <key>platformID</key>
+                        <integer>3</integer>
+                        <key>string</key>
+                        <string>械黑 GB VF</string>
+                    </dict>
+                </array>
+            </dict>
+        </dict>
+    </lib>
+    <instances>
+        <instance
+            familyname="Frex Sans GB"
+            stylename="Thin"
+            stylemapfamilyname="Frex Sans GB Thin"
+            stylemapstylename="Regular"
+            filename="instances/FrexSansGB-Thin.ufo"
+            name="Thin"
+        >
+            <location>
+                <dimension xvalue="100" name="weight"/>
+            </location>
+            <familyname xml:lang="zh">械黑 GB</familyname>
+            <stylename xml:lang="zh">Thin</stylename>
+            <stylemapfamilyname xml:lang="zh">械黑 GB Thin</stylemapfamilyname>
+            <stylemapstylename xml:lang="zh">Regular</stylemapstylename>
+        </instance>
+        <instance
+            familyname="Frex Sans GB"
+            stylename="ExtraLight"
+            stylemapfamilyname="Frex Sans GB ExtraLight"
+            stylemapstylename="Regular"
+            filename="instances/FrexSansGB-ExtraLight.ufo"
+            name="ExtraLight"
+        >
+            <location>
+                <dimension xvalue="165" name="weight"/>
+            </location>
+            <familyname xml:lang="zh">械黑 GB</familyname>
+            <stylename xml:lang="zh">ExtraLight</stylename>
+            <stylemapfamilyname xml:lang="zh">械黑 GB ExtraLight</stylemapfamilyname>
+            <stylemapstylename xml:lang="zh">Regular</stylemapstylename>
+        </instance>
+        <instance
+            familyname="Frex Sans GB"
+            stylename="Light"
+            stylemapfamilyname="Frex Sans GB Light"
+            stylemapstylename="Regular"
+            filename="instances/FrexSansGB-Light.ufo"
+            name="Light"
+        >
+            <location>
+                <dimension xvalue="275" name="weight"/>
+            </location>
+            <familyname xml:lang="zh">械黑 GB</familyname>
+            <stylename xml:lang="zh">Light</stylename>
+            <stylemapfamilyname xml:lang="zh">械黑 GB Light</stylemapfamilyname>
+            <stylemapstylename xml:lang="zh">Regular</stylemapstylename>
+        </instance>
+        <instance
+            familyname="Frex Sans GB"
+            stylename="Regular"
+            stylemapfamilyname="Frex Sans GB"
+            stylemapstylename="Regular"
+            filename="instances/FrexSansGB-Regular.ufo"
+            name="Regular"
+        >
+            <location>
+                <dimension xvalue="360" name="weight"/>
+            </location>
+            <familyname xml:lang="zh">械黑 GB</familyname>
+            <stylename xml:lang="zh">Regular</stylename>
+            <stylemapfamilyname xml:lang="zh">械黑 GB</stylemapfamilyname>
+            <stylemapstylename xml:lang="zh">Regular</stylemapstylename>
+        </instance>
+        <instance
+            familyname="Frex Sans GB"
+            stylename="Text"
+            stylemapfamilyname="Frex Sans GB Text"
+            stylemapstylename="Regular"
+            filename="instances/FrexSansGB-Text.ufo"
+            name="Text"
+        >
+            <location>
+                <dimension xvalue="425" name="weight"/>
+            </location>
+            <familyname xml:lang="zh">械黑 GB</familyname>
+            <stylename xml:lang="zh">Text</stylename>
+            <stylemapfamilyname xml:lang="zh">械黑 GB Text</stylemapfamilyname>
+            <stylemapstylename xml:lang="zh">Regular</stylemapstylename>
+        </instance>
+        <instance
+            familyname="Frex Sans GB"
+            stylename="Medium"
+            stylemapfamilyname="Frex Sans GB Medium"
+            stylemapstylename="Regular"
+            filename="instances/FrexSansGB-Medium.ufo"
+            name="Medium"
+        >
+            <location>
+                <dimension xvalue="505" name="weight"/>
+            </location>
+            <familyname xml:lang="zh">械黑 GB</familyname>
+            <stylename xml:lang="zh">Medium</stylename>3
+            <stylemapfamilyname xml:lang="zh">械黑 GB Medium</stylemapfamilyname>
+            <stylemapstylename xml:lang="zh">Regular</stylemapstylename>
+        </instance>
+        <instance
+            familyname="Frex Sans GB"
+            stylename="SemiBold"
+            stylemapfamilyname="Frex Sans GB SemiBold"
+            stylemapstylename="Bold"
+            filename="instances/FrexSansGB-SemiBold.ufo"
+            name="SemiBold"
+        >
+            <location>
+                <dimension xvalue="602" name="weight"/>
+            </location>
+            <familyname xml:lang="zh">械黑 GB</familyname>
+            <stylename xml:lang="zh">SemiBold</stylename>
+            <stylemapfamilyname xml:lang="zh">械黑 GB SemiBold</stylemapfamilyname>
+            <stylemapstylename xml:lang="zh">Bold</stylemapstylename>
+        </instance>
+        <instance
+            familyname="Frex Sans GB"
+            stylename="Bold"
+            stylemapfamilyname="Frex Sans GB"
+            stylemapstylename="Bold"
+            filename="instances/FrexSansGB-Bold.ufo"
+            name="Bold"
+        >
+            <location>
+                <dimension xvalue="700" name="weight"/>
+            </location>
+            <familyname xml:lang="zh">械黑 GB</familyname>
+            <stylename xml:lang="zh">Bold</stylename>
+            <stylemapfamilyname xml:lang="zh">械黑 GB</stylemapfamilyname>
+            <stylemapstylename xml:lang="zh">Bold</stylemapstylename>
+        </instance>
+    </instances>
+</designspace>

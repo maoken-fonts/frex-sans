@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni30F0" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="30F0"/>
+  <anchor x="495" y="-110" name="BSB"/>
+  <anchor x="10" y="0" name="LSB"/>
+  <anchor x="985" y="0" name="RSB"/>
+  <anchor x="505" y="870" name="TSB"/>
+  <outline>
+    <contour>
+      <point x="617" y="203" type="line"/>
+      <point x="617" y="-40" type="line"/>
+      <point x="687" y="-40" type="line"/>
+      <point x="687" y="203" type="line"/>
+      <point x="915" y="203" type="line"/>
+      <point x="915" y="267" type="line"/>
+      <point x="687" y="267" type="line"/>
+      <point x="687" y="560" type="line"/>
+      <point x="886" y="560" type="line"/>
+      <point x="886" y="624" type="line"/>
+      <point x="687" y="624" type="line"/>
+      <point x="687" y="798" type="line"/>
+      <point x="617" y="798" type="line"/>
+      <point x="617" y="624" type="line"/>
+      <point x="114" y="624" type="line"/>
+      <point x="114" y="560" type="line"/>
+      <point x="275" y="560" type="line"/>
+      <point x="275" y="267" type="line"/>
+      <point x="85" y="267" type="line"/>
+      <point x="85" y="203" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="560" type="line"/>
+      <point x="617" y="560" type="line"/>
+      <point x="617" y="267" type="line"/>
+      <point x="344" y="267" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

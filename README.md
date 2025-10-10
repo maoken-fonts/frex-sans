@@ -1,4 +1,4 @@
-# Flex Sans 械黑
+# Frex Sans 械黑
 
 ![Banner image 横幅](./documentation/display.gif)
 
@@ -7,8 +7,8 @@
 IBM Plex 是 IBM 公司于 2017 年发布的开源字体项目，最初预告会制作相应的 CJK（中日韩）字体，但经历多次延期，直到 2021 年才发布日文版、2024 年发布繁体版延续了西文部分的独特设计风格。然而，简体版（IBM Plex Sans SC）却因大量不必要的修改和设计问题备受批评。   
 IBM Plex is an open-source font project released by IBM in 2017. Initially, it was announced that corresponding CJK (Chinese, Japanese, Korean) fonts would be created, but after multiple delays, the Japanese version was not released until 2021. The Traditional Chinese version released in 2024 continued the unique design style of the Latin part. However, the Simplified Chinese version (IBM Plex Sans SC) faced heavy criticism due to numerous unnecessary modifications and design issues. 
 
-2025 年 4 月，IBM 发布了 Plex 的字体源代码。我们借此机会修复 IBM Plex Sans SC 的问题，并制作了可变字体版本，命名为 **械黑**。更详细的资料可见[猫啃网](https://maoken.com/freefonts/26125.html)：https://maoken.com/freefonts/26125.html 。  
-In April 2025, IBM released the source code for IBM Plex fonts. We took this opportunity to address the issues in IBM Plex Sans SC and created a variable font version with Chinese characters, which is named **Flex Sans**. More details about this project can be viewed on [maoken.com](https://maoken.com/freefonts/26125.html): https://maoken.com/freefonts/26125.html .
+2025 年 4 月，IBM 发布了 Plex 的字体源代码。我们借此机会修复 IBM Plex Sans SC 的问题，并制作了可变字体版本，命名为 **械黑**。更详细的资料可见[猫啃网](https://maoken.com/freefonts/26125.html)：https://maoken.com/freefonts/26125.html 。后续由于西文名称与上游厂商冲突，本计划被迫将西文名称换成 "Frex Sans"。  
+In April 2025, IBM released the source code for IBM Plex fonts. We took this opportunity to address the issues in IBM Plex Sans SC and created a variable font version with Chinese characters, which is named **Flex Sans**. More details about this project can be viewed on [maoken.com](https://maoken.com/freefonts/26125.html): https://maoken.com/freefonts/26125.html . Due to a name conflict with upstream font foundry, this project is forced to change the name to **Frex Sans**.
 
 ## 版本差异 Version differences
 
@@ -23,8 +23,8 @@ This project has only completed modifications for the GB version. Below lists th
 
 ## 下载 Download
 
-请前往 [发布页](https://github.com/maoken-fonts/flex-sans/releases) 下载械黑的最新版本。  
-Please visit [Release page](https://github.com/maoken-fonts/flex-sans/releases) to download the latest version of Flex Sans.
+请前往 [发布页](https://github.com/maoken-fonts/frex-sans/releases) 下载械黑的最新版本。  
+Please visit [Release page](https://github.com/maoken-fonts/frex-sans/releases) to download the latest version of Frex Sans.
 
 ## 授权 Licensing 授權
 
@@ -53,8 +53,8 @@ Modify the font into other fonts, but the modified font must be also released un
 
 ## 构建字型 | Building the Font
 
-本字体制作流程分两部分：非汉部分（提供字体信息、西文、标点符号、OpenType特性等）及中文部分（提供汉字和异体）。非汉部分使用 FontLab 8 制作，打开 `sources/Flex Sans GB VF latin.vfc` 后导出 "DesignSpace + UFO"（根据家族子文件夹）。中文部分使用 Fontra 共享服务，导出格式为 `.rcjk`，需后续转换成 UFO 文件。两者导出后运行 `./sources/build.ps1` 即可构建完整字体。  
-The workflow for this fonts is separated into two parts: non-Chinese (providing font information, LCG, punctuations, OpenType features, etc.) and Chinese (Chinese characters with variants). Non-Chinese part is made in FontLab 8, which can be exported from `sources/Flex Sans GB VF latin.vfc` with "DesignSpace + UFO" (subfolder by family). Chinese part is made with collaborative Fontra service, and exports `.rcjk` file that require conversion to UFO. The build can be done by running `./sources/build.ps1` after exporting both fonts.
+本字体制作流程分两部分：非汉部分（提供字体信息、西文、标点符号、OpenType特性等）及中文部分（提供汉字和异体）。非汉部分使用 FontLab 8 制作，打开 `sources/Frex Sans GB VF latin.vfc` 后导出 "DesignSpace + UFO"（根据家族子文件夹）。中文部分使用 Fontra 共享服务，导出格式为 `.rcjk`，需后续转换成 UFO 文件。两者导出后运行 `./sources/build.ps1` 即可构建完整字体。  
+The workflow for this fonts is separated into two parts: non-Chinese (providing font information, LCG, punctuations, OpenType features, etc.) and Chinese (Chinese characters with variants). Non-Chinese part is made in FontLab 8, which can be exported from `sources/Frex Sans GB VF latin.vfc` with "DesignSpace + UFO" (subfolder by family). Chinese part is made with collaborative Fontra service, and exports `.rcjk` file that require conversion to UFO. The build can be done by running `./sources/build.ps1` after exporting both fonts.
 
 请安装 Python 后运行 `pip install -r requirements.txt` 安装里面的依赖。以下列出特殊需要的版本：  
 After installing Python, install the dependencies listed with `pip install -r requirements.txt`. Special required versions are listed below:

@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni5588" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="5588"/>
+  <outline>
+    <contour>
+      <point x="166" y="-7" type="line"/>
+      <point x="166" y="684" type="line"/>
+      <point x="240" y="684" type="line"/>
+      <point x="240" y="91" type="line"/>
+      <point x="342" y="91" type="line"/>
+      <point x="342" y="789" type="line"/>
+      <point x="60" y="789" type="line"/>
+      <point x="60" y="-7" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="91" type="line"/>
+      <point x="310" y="197" type="line"/>
+      <point x="96" y="197" type="line"/>
+      <point x="96" y="91" type="line"/>
+    </contour>
+    <contour>
+      <point x="511" y="-80" type="line"/>
+      <point x="511" y="-30" type="line"/>
+      <point x="805" y="-30" type="line"/>
+      <point x="805" y="-80" type="line"/>
+      <point x="917" y="-80" type="line"/>
+      <point x="917" y="383" type="line"/>
+      <point x="402" y="383" type="line"/>
+      <point x="402" y="-80" type="line"/>
+    </contour>
+    <contour>
+      <point x="511" y="137" type="line"/>
+      <point x="805" y="137" type="line"/>
+      <point x="805" y="65" type="line"/>
+      <point x="511" y="65" type="line"/>
+    </contour>
+    <contour>
+      <point x="511" y="290" type="line"/>
+      <point x="805" y="290" type="line"/>
+      <point x="805" y="220" type="line"/>
+      <point x="511" y="220" type="line"/>
+    </contour>
+    <contour>
+      <point x="392" y="424" type="line"/>
+      <point x="478" y="442"/>
+      <point x="558" y="467"/>
+      <point x="647" y="501" type="curve"/>
+      <point x="634" y="592" type="line"/>
+      <point x="536" y="559"/>
+      <point x="455" y="535"/>
+      <point x="366" y="522" type="curve"/>
+    </contour>
+    <contour>
+      <point x="640" y="321" type="line"/>
+      <point x="669" y="367"/>
+      <point x="693" y="412"/>
+      <point x="710" y="455" type="curve"/>
+      <point x="601" y="478" type="line"/>
+      <point x="594" y="441"/>
+      <point x="578" y="400"/>
+      <point x="560" y="362" type="curve"/>
+    </contour>
+    <contour>
+      <point x="505" y="513" type="line"/>
+      <point x="505" y="840" type="line"/>
+      <point x="399" y="840" type="line"/>
+      <point x="399" y="583" type="line" smooth="yes"/>
+      <point x="399" y="549"/>
+      <point x="394" y="529"/>
+      <point x="366" y="522" type="curve"/>
+    </contour>
+    <contour>
+      <point x="637" y="653" type="line"/>
+      <point x="637" y="746" type="line"/>
+      <point x="475" y="746" type="line"/>
+      <point x="475" y="653" type="line"/>
+    </contour>
+    <contour>
+      <point x="862" y="447" type="line" smooth="yes"/>
+      <point x="938" y="447"/>
+      <point x="961" y="470"/>
+      <point x="961" y="545" type="curve" smooth="yes"/>
+      <point x="961" y="605" type="line"/>
+      <point x="870" y="638" type="line"/>
+      <point x="870" y="542" type="line"/>
+      <point x="793" y="542" type="line" smooth="yes"/>
+      <point x="777" y="542"/>
+      <point x="773" y="546"/>
+      <point x="773" y="562" type="curve" smooth="yes"/>
+      <point x="773" y="840" type="line"/>
+      <point x="665" y="840" type="line"/>
+      <point x="665" y="545" type="line" smooth="yes"/>
+      <point x="665" y="470"/>
+      <point x="688" y="447"/>
+      <point x="764" y="447" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="760" y="633" type="line"/>
+      <point x="832" y="658"/>
+      <point x="902" y="688"/>
+      <point x="960" y="722" type="curve"/>
+      <point x="892" y="799" type="line"/>
+      <point x="848" y="767"/>
+      <point x="780" y="731"/>
+      <point x="721" y="712" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

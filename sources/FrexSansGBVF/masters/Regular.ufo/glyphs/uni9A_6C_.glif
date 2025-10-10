@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni9A6C" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2EE2"/>
+  <unicode hex="9A6C"/>
+  <outline>
+    <contour>
+      <point x="708" y="-62" type="line" smooth="yes"/>
+      <point x="806" y="-62"/>
+      <point x="849" y="-36"/>
+      <point x="870" y="53" type="curve" smooth="yes"/>
+      <point x="889" y="130"/>
+      <point x="897" y="217"/>
+      <point x="903" y="420" type="curve"/>
+      <point x="243" y="420" type="line"/>
+      <point x="258" y="501"/>
+      <point x="273" y="596"/>
+      <point x="283" y="678" type="curve"/>
+      <point x="217" y="683" type="line"/>
+      <point x="207" y="594"/>
+      <point x="189" y="477"/>
+      <point x="166" y="361" type="curve"/>
+      <point x="835" y="361" type="line"/>
+      <point x="831" y="221"/>
+      <point x="822" y="134"/>
+      <point x="807" y="74" type="curve" smooth="yes"/>
+      <point x="793" y="16"/>
+      <point x="773" y="-1"/>
+      <point x="705" y="-1" type="curve" smooth="yes"/>
+      <point x="524" y="-1" type="line"/>
+      <point x="539" y="-62" type="line"/>
+    </contour>
+    <contour>
+      <point x="721" y="156" type="line"/>
+      <point x="721" y="216" type="line"/>
+      <point x="46" y="216" type="line"/>
+      <point x="46" y="156" type="line"/>
+    </contour>
+    <contour>
+      <point x="700" y="388" type="line"/>
+      <point x="720" y="508"/>
+      <point x="738" y="643"/>
+      <point x="756" y="799" type="curve"/>
+      <point x="102" y="799" type="line"/>
+      <point x="102" y="740" type="line"/>
+      <point x="682" y="740" type="line"/>
+      <point x="671" y="635"/>
+      <point x="654" y="509"/>
+      <point x="634" y="388" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

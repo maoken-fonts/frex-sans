@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni7F52" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2EAB"/>
+  <unicode hex="7F52"/>
+  <outline>
+    <contour>
+      <point x="71" y="782" type="line"/>
+      <point x="71" y="433" type="line"/>
+      <point x="929" y="433" type="line"/>
+      <point x="929" y="782" type="line"/>
+    </contour>
+    <contour>
+      <point x="135" y="720" type="line"/>
+      <point x="864" y="720" type="line"/>
+      <point x="864" y="495" type="line"/>
+      <point x="135" y="495" type="line"/>
+    </contour>
+    <contour>
+      <point x="334" y="470" type="line"/>
+      <point x="397" y="470" type="line"/>
+      <point x="397" y="742" type="line"/>
+      <point x="334" y="742" type="line"/>
+    </contour>
+    <contour>
+      <point x="596" y="470" type="line"/>
+      <point x="659" y="470" type="line"/>
+      <point x="659" y="742" type="line"/>
+      <point x="596" y="742" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u24D14" format="2">
+  <advance width="1000"/>
+  <unicode hex="2EAA"/>
+  <unicode hex="24D14"/>
+  <outline>
+    <contour>
+      <point x="248" y="-29" type="line"/>
+      <point x="422" y="17"/>
+      <point x="588" y="77"/>
+      <point x="713" y="135" type="curve"/>
+      <point x="708" y="153" type="line"/>
+      <point x="583" y="95"/>
+      <point x="410" y="32"/>
+      <point x="245" y="-11" type="curve"/>
+    </contour>
+    <contour>
+      <point x="368" y="9" type="line"/>
+      <point x="368" y="524" type="line"/>
+      <point x="348" y="524" type="line"/>
+      <point x="348" y="9" type="line"/>
+    </contour>
+    <contour>
+      <point x="525" y="63" type="line"/>
+      <point x="525" y="617" type="line"/>
+      <point x="505" y="617" type="line"/>
+      <point x="505" y="63" type="line"/>
+    </contour>
+    <contour>
+      <point x="693" y="394" type="line"/>
+      <point x="693" y="412" type="line"/>
+      <point x="512" y="412" type="line"/>
+      <point x="512" y="394" type="line"/>
+    </contour>
+    <contour>
+      <point x="688" y="788" type="line"/>
+      <point x="291" y="788" type="line"/>
+      <point x="291" y="770" type="line"/>
+      <point x="672" y="770" type="line"/>
+      <point x="666" y="775" type="line"/>
+      <point x="630" y="719"/>
+      <point x="568" y="662"/>
+      <point x="505" y="617" type="curve"/>
+      <point x="525" y="608" type="line"/>
+      <point x="586" y="654"/>
+      <point x="650" y="710"/>
+      <point x="688" y="772" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Bold</key>
+        <string>foreground</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>Bold</key>
+        <string>&lt;default&gt;</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

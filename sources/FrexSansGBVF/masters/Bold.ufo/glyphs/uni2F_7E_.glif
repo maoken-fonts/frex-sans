@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2F7E" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2F7E"/>
+  <outline>
+    <contour>
+      <point x="551" y="-80" type="line"/>
+      <point x="551" y="214" type="line"/>
+      <point x="561" y="214" type="line"/>
+      <point x="583" y="100"/>
+      <point x="695" y="36"/>
+      <point x="919" y="-63" type="curve"/>
+      <point x="974" y="47" type="line"/>
+      <point x="773" y="126"/>
+      <point x="622" y="200"/>
+      <point x="571" y="330" type="curve"/>
+      <point x="551" y="330" type="line"/>
+      <point x="551" y="840" type="line"/>
+      <point x="431" y="840" type="line"/>
+      <point x="431" y="330" type="line"/>
+      <point x="411" y="330" type="line"/>
+      <point x="362" y="199"/>
+      <point x="208" y="123"/>
+      <point x="26" y="47" type="curve"/>
+      <point x="85" y="-62" type="line"/>
+      <point x="309" y="36"/>
+      <point x="399" y="100"/>
+      <point x="421" y="214" type="curve"/>
+      <point x="431" y="214" type="line"/>
+      <point x="431" y="-80" type="line"/>
+    </contour>
+    <contour>
+      <point x="955" y="265" type="line"/>
+      <point x="955" y="373" type="line"/>
+      <point x="45" y="373" type="line"/>
+      <point x="45" y="265" type="line"/>
+    </contour>
+    <contour>
+      <point x="909" y="465" type="line"/>
+      <point x="909" y="573" type="line"/>
+      <point x="91" y="573" type="line"/>
+      <point x="91" y="465" type="line"/>
+    </contour>
+    <contour>
+      <point x="95" y="659" type="line"/>
+      <point x="391" y="659"/>
+      <point x="711" y="662"/>
+      <point x="927" y="698" type="curve"/>
+      <point x="870" y="806" type="line"/>
+      <point x="677" y="769"/>
+      <point x="365" y="767"/>
+      <point x="74" y="767" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

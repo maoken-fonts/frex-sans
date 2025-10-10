@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni4EC5" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="4EC5"/>
+  <outline>
+    <contour>
+      <point x="241" y="-70" type="line"/>
+      <point x="241" y="614" type="line"/>
+      <point x="221" y="574" type="line"/>
+      <point x="221" y="-70" type="line"/>
+    </contour>
+    <contour>
+      <point x="317" y="835" type="line"/>
+      <point x="255" y="632"/>
+      <point x="172" y="495"/>
+      <point x="37" y="376" type="curve"/>
+      <point x="49" y="359" type="line"/>
+      <point x="189" y="484"/>
+      <point x="272" y="625"/>
+      <point x="335" y="829" type="curve"/>
+    </contour>
+    <contour>
+      <point x="386" y="-49" type="line"/>
+      <point x="715" y="147"/>
+      <point x="860" y="394"/>
+      <point x="900" y="744" type="curve"/>
+      <point x="900" y="760" type="line"/>
+      <point x="383" y="760" type="line"/>
+      <point x="383" y="742" type="line"/>
+      <point x="879" y="742" type="line"/>
+      <point x="840" y="408"/>
+      <point x="705" y="166"/>
+      <point x="377" y="-32" type="curve"/>
+    </contour>
+    <contour>
+      <point x="946" y="-33" type="line"/>
+      <point x="670" y="160"/>
+      <point x="544" y="411"/>
+      <point x="492" y="689" type="curve"/>
+      <point x="473" y="683" type="line"/>
+      <point x="529" y="395"/>
+      <point x="657" y="145"/>
+      <point x="935" y="-49" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Bold</key>
+        <string>foreground</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>Bold</key>
+        <string>&lt;default&gt;</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni82E6" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="82E6"/>
+  <outline>
+    <contour>
+      <point x="48" y="391" type="line"/>
+      <point x="952" y="391" type="line"/>
+      <point x="952" y="501" type="line"/>
+      <point x="48" y="501" type="line"/>
+    </contour>
+    <contour>
+      <point x="553" y="603" type="line"/>
+      <point x="431" y="603" type="line"/>
+      <point x="431" y="257" type="line"/>
+      <point x="553" y="257" type="line"/>
+    </contour>
+    <contour>
+      <point x="137" y="306" type="line"/>
+      <point x="137" y="-80" type="line"/>
+      <point x="255" y="-80" type="line"/>
+      <point x="255" y="-41" type="line"/>
+      <point x="744" y="-41" type="line"/>
+      <point x="744" y="-80" type="line"/>
+      <point x="864" y="-80" type="line"/>
+      <point x="864" y="306" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="197" type="line"/>
+      <point x="744" y="197" type="line"/>
+      <point x="744" y="69" type="line"/>
+      <point x="255" y="69" type="line"/>
+    </contour>
+    <contour>
+      <point x="955" y="648" type="line"/>
+      <point x="955" y="756" type="line"/>
+      <point x="45" y="756" type="line"/>
+      <point x="45" y="648" type="line"/>
+    </contour>
+    <contour>
+      <point x="382" y="569" type="line"/>
+      <point x="382" y="840" type="line"/>
+      <point x="266" y="840" type="line"/>
+      <point x="266" y="569" type="line"/>
+    </contour>
+    <contour>
+      <point x="719" y="569" type="line"/>
+      <point x="719" y="840" type="line"/>
+      <point x="601" y="840" type="line"/>
+      <point x="601" y="569" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

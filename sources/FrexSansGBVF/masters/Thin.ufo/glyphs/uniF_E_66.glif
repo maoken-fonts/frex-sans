@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE66" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FE66"/>
+  <outline>
+    <contour>
+      <point x="699" y="384" type="line"/>
+      <point x="699" y="399" type="line"/>
+      <point x="301" y="399" type="line"/>
+      <point x="301" y="384" type="line"/>
+    </contour>
+    <contour>
+      <point x="699" y="234" type="line"/>
+      <point x="699" y="250" type="line"/>
+      <point x="301" y="250" type="line"/>
+      <point x="301" y="234" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

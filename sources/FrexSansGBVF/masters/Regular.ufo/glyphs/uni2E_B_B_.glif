@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2EBB" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2EBB"/>
+  <outline>
+    <contour>
+      <point x="462" y="834" type="line"/>
+      <point x="462" y="362" type="line"/>
+      <point x="521" y="362" type="line"/>
+      <point x="521" y="834" type="line"/>
+    </contour>
+    <contour>
+      <point x="930" y="333" type="line"/>
+      <point x="930" y="389" type="line"/>
+      <point x="71" y="389" type="line"/>
+      <point x="71" y="333" type="line"/>
+    </contour>
+    <contour>
+      <point x="954" y="648" type="line"/>
+      <point x="46" y="648" type="line"/>
+      <point x="46" y="594" type="line"/>
+      <point x="954" y="594" type="line"/>
+    </contour>
+    <contour>
+      <point x="870" y="465" type="line"/>
+      <point x="870" y="779" type="line"/>
+      <point x="116" y="779" type="line"/>
+      <point x="116" y="725" type="line"/>
+      <point x="810" y="725" type="line"/>
+      <point x="810" y="519" type="line"/>
+      <point x="110" y="519" type="line"/>
+      <point x="110" y="465" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

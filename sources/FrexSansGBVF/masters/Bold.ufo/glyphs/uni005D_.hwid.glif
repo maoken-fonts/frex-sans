@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni005D.hwid" format="2">
+  <advance width="500" height="1000"/>
+  <anchor x="0" y="0" name="LSB"/>
+  <anchor x="500" y="0" name="RSB"/>
+  <outline>
+    <contour>
+      <point x="375" y="840" type="line"/>
+      <point x="50" y="840" type="line"/>
+      <point x="50" y="736" type="line"/>
+      <point x="238" y="736" type="line"/>
+      <point x="238" y="24" type="line"/>
+      <point x="50" y="24" type="line"/>
+      <point x="50" y="-80" type="line"/>
+      <point x="375" y="-80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>83</integer>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

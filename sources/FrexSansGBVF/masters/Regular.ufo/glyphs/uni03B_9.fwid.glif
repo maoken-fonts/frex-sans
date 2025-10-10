@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni03B9.fwid" format="2">
+  <advance width="1000" height="1000"/>
+  <outline>
+    <contour>
+      <point x="631" y="0" type="line"/>
+      <point x="631" y="70" type="line"/>
+      <point x="512" y="70" type="line"/>
+      <point x="512" y="541" type="line"/>
+      <point x="432" y="541" type="line"/>
+      <point x="432" y="86" type="line" smooth="yes"/>
+      <point x="432" y="36"/>
+      <point x="461" y="0"/>
+      <point x="517" y="0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

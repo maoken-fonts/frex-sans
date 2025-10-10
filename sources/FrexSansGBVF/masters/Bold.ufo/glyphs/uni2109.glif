@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2109" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2109"/>
+  <outline>
+    <contour>
+      <point x="211" y="441" type="curve" smooth="yes"/>
+      <point x="296" y="441"/>
+      <point x="361" y="506"/>
+      <point x="361" y="593" type="curve" smooth="yes"/>
+      <point x="361" y="680"/>
+      <point x="296" y="745"/>
+      <point x="211" y="745" type="curve" smooth="yes"/>
+      <point x="126" y="745"/>
+      <point x="61" y="680"/>
+      <point x="61" y="593" type="curve" smooth="yes"/>
+      <point x="61" y="506"/>
+      <point x="126" y="441"/>
+    </contour>
+    <contour>
+      <point x="211" y="523" type="curve" smooth="yes"/>
+      <point x="173" y="523"/>
+      <point x="148" y="553"/>
+      <point x="148" y="593" type="curve" smooth="yes"/>
+      <point x="148" y="633"/>
+      <point x="173" y="663"/>
+      <point x="211" y="663" type="curve" smooth="yes"/>
+      <point x="249" y="663"/>
+      <point x="274" y="633"/>
+      <point x="274" y="593" type="curve" smooth="yes"/>
+      <point x="274" y="553"/>
+      <point x="249" y="523"/>
+    </contour>
+    <contour>
+      <point x="615" y="304" type="line"/>
+      <point x="897" y="304" type="line"/>
+      <point x="897" y="438" type="line"/>
+      <point x="615" y="438" type="line"/>
+      <point x="615" y="598" type="line"/>
+      <point x="943" y="598" type="line"/>
+      <point x="943" y="733" type="line"/>
+      <point x="463" y="733" type="line"/>
+      <point x="463" y="0" type="line"/>
+      <point x="615" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>80</integer>
+        <key>weight</key>
+        <integer>-120</integer>
+        <key>width</key>
+        <integer>80</integer>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

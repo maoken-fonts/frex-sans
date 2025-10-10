@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE43" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FE43"/>
+  <anchor x="500" y="-120" name="BSB"/>
+  <anchor x="120" y="380" name="LSB"/>
+  <anchor x="120" y="-120" name="RSB"/>
+  <anchor x="500" y="380" name="TSB"/>
+  <outline>
+    <contour>
+      <point x="219" y="174" type="line"/>
+      <point x="822" y="174" type="line"/>
+      <point x="822" y="-75" type="line"/>
+      <point x="950" y="-75" type="line"/>
+      <point x="950" y="295" type="line"/>
+      <point x="219" y="295" type="line"/>
+    </contour>
+    <contour>
+      <point x="930" y="276" type="line"/>
+      <point x="930" y="-56" type="line"/>
+      <point x="842" y="-56" type="line"/>
+      <point x="842" y="193" type="line"/>
+      <point x="239" y="193" type="line"/>
+      <point x="239" y="276" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0028.hwid" format="2">
+  <advance width="500" height="1000"/>
+  <anchor x="0" y="0" name="LSB"/>
+  <anchor x="500" y="0" name="RSB"/>
+  <outline>
+    <contour>
+      <point x="120" y="380" type="curve" smooth="yes"/>
+      <point x="120" y="180"/>
+      <point x="214" y="4"/>
+      <point x="320" y="-81" type="curve"/>
+      <point x="460" y="-81" type="line"/>
+      <point x="344" y="18"/>
+      <point x="260" y="173"/>
+      <point x="260" y="346" type="curve" smooth="yes"/>
+      <point x="260" y="414" type="line" smooth="yes"/>
+      <point x="260" y="587"/>
+      <point x="344" y="742"/>
+      <point x="460" y="840" type="curve"/>
+      <point x="320" y="840" type="line"/>
+      <point x="214" y="756"/>
+      <point x="120" y="580"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>81</integer>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

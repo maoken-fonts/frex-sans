@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0079" format="2">
+  <advance width="521" height="1000"/>
+  <unicode hex="0079"/>
+  <outline>
+    <contour>
+      <point x="139" y="-210" type="line" smooth="yes"/>
+      <point x="214" y="-210"/>
+      <point x="236" y="-192"/>
+      <point x="260" y="-129" type="curve"/>
+      <point x="502" y="541" type="line"/>
+      <point x="423" y="541" type="line"/>
+      <point x="262" y="82" type="line"/>
+      <point x="262" y="82" type="line"/>
+      <point x="256" y="82" type="line"/>
+      <point x="256" y="82" type="line"/>
+      <point x="99" y="541" type="line"/>
+      <point x="19" y="541" type="line"/>
+      <point x="221" y="-20" type="line"/>
+      <point x="179" y="-140" type="line"/>
+      <point x="93" y="-140" type="line"/>
+      <point x="93" y="-210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <real>0.0</real>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

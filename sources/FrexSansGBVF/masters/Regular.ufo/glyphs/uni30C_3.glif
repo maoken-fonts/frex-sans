@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni30C3" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="30C3"/>
+  <anchor x="90" y="-15" name="LSB"/>
+  <anchor x="905" y="-15" name="RSB"/>
+  <outline>
+    <contour>
+      <point x="354" y="-60" type="line"/>
+      <point x="655" y="73"/>
+      <point x="770" y="269"/>
+      <point x="809" y="578" type="curve"/>
+      <point x="736" y="587" type="line"/>
+      <point x="700" y="293"/>
+      <point x="600" y="128"/>
+      <point x="314" y="7" type="curve"/>
+    </contour>
+    <contour>
+      <point x="300" y="303" type="line"/>
+      <point x="278" y="394"/>
+      <point x="248" y="485"/>
+      <point x="215" y="570" type="curve"/>
+      <point x="145" y="549" type="line"/>
+      <point x="180" y="463"/>
+      <point x="210" y="371"/>
+      <point x="233" y="283" type="curve"/>
+    </contour>
+    <contour>
+      <point x="522" y="347" type="line"/>
+      <point x="507" y="430"/>
+      <point x="481" y="519"/>
+      <point x="451" y="613" type="curve"/>
+      <point x="380" y="596" type="line"/>
+      <point x="410" y="510"/>
+      <point x="437" y="419"/>
+      <point x="453" y="332" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

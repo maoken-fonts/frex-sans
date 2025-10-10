@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE3B" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FE3B"/>
+  <anchor x="500" y="-120" name="BSB"/>
+  <anchor x="120" y="380" name="LSB"/>
+  <anchor x="120" y="-120" name="RSB"/>
+  <anchor x="500" y="380" name="TSB"/>
+  <outline>
+    <contour>
+      <point x="48" y="-60" type="line"/>
+      <point x="140" y="50"/>
+      <point x="295" y="143"/>
+      <point x="476" y="143" type="curve" smooth="yes"/>
+      <point x="526" y="143" type="line" smooth="yes"/>
+      <point x="704" y="143"/>
+      <point x="861" y="51"/>
+      <point x="954" y="-60" type="curve"/>
+      <point x="954" y="255" type="line"/>
+      <point x="48" y="255" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

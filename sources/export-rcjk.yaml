@@ -1,6 +1,6 @@
 steps:
 - input: fontra-read
-  source: flex-sc-src/edit-main-cn.rcjk
+  source: frex-sc-src/edit-main-cn.rcjk
 - filter: decompose-composites
   onlyVariableComposites: true
 

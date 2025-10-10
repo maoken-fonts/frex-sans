@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni4E28" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2F01"/>
+  <unicode hex="4E28"/>
+  <outline>
+    <contour>
+      <point x="571" y="-70" type="line"/>
+      <point x="571" y="830" type="line"/>
+      <point x="429" y="830" type="line"/>
+      <point x="429" y="-70" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

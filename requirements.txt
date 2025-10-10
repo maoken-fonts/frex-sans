@@ -1,14 +1,12 @@
 # build sequence
 gftools
-fontmake >= 3.8
+fontmake
 ufomerge
+ufo2ft >= 3.6.2 # for correct processing of multilingual names in designspace
 
 # modify lib with fontTools
 lxml
 
 # export RCJK to UFO
-fontra @ git+https://github.com/googlefonts/fontra
-fontra-rcjk @ git+https://github.com/googlefonts/fontra-rcjk
-
-# special fix for ufo2ft
-ufo2ft @ git+https://github.com/NightFurySL2001/ufo2ft@patch-multilingual-name
+fontra @ git+https://github.com/fontra/fontra
+fontra-rcjk @ git+https://github.com/fontra/fontra-rcjk

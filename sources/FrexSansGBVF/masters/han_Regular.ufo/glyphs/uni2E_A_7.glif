@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2EA7" format="2">
+  <advance width="1000"/>
+  <unicode hex="2EA7"/>
+  <outline>
+    <contour>
+      <point x="467" y="834" type="line"/>
+      <point x="467" y="379" type="line"/>
+      <point x="532" y="379" type="line"/>
+      <point x="532" y="834" type="line"/>
+    </contour>
+    <contour>
+      <point x="949" y="407" type="line"/>
+      <point x="49" y="407" type="line"/>
+      <point x="49" y="348" type="line"/>
+      <point x="949" y="348" type="line"/>
+    </contour>
+    <contour>
+      <point x="207" y="587" type="line"/>
+      <point x="903" y="587" type="line"/>
+      <point x="903" y="645" type="line"/>
+      <point x="207" y="645" type="line"/>
+    </contour>
+    <contour>
+      <point x="115" y="456" type="line"/>
+      <point x="203" y="538"/>
+      <point x="272" y="666"/>
+      <point x="304" y="776" type="curve"/>
+      <point x="244" y="794" type="line"/>
+      <point x="215" y="690"/>
+      <point x="148" y="573"/>
+      <point x="67" y="498" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

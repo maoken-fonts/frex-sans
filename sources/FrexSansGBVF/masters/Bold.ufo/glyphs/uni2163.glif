@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2163" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2163"/>
+  <outline>
+    <contour>
+      <point x="779" y="0" type="line"/>
+      <point x="981" y="733" type="line"/>
+      <point x="825" y="733" type="line"/>
+      <point x="738" y="384" type="line"/>
+      <point x="699" y="170" type="line"/>
+      <point x="696" y="170" type="line"/>
+      <point x="652" y="384" type="line"/>
+      <point x="566" y="733" type="line"/>
+      <point x="411" y="733" type="line"/>
+      <point x="607" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="384" y="0" type="line"/>
+      <point x="384" y="118" type="line"/>
+      <point x="285" y="118" type="line"/>
+      <point x="285" y="615" type="line"/>
+      <point x="384" y="615" type="line"/>
+      <point x="384" y="733" type="line"/>
+      <point x="43" y="733" type="line"/>
+      <point x="43" y="615" type="line"/>
+      <point x="141" y="615" type="line"/>
+      <point x="141" y="118" type="line"/>
+      <point x="43" y="118" type="line"/>
+      <point x="43" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>width</key>
+        <integer>91</integer>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

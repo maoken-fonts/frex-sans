@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni5C13" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="5C13"/>
+  <outline>
+    <contour>
+      <point x="234" y="614" type="line"/>
+      <point x="912" y="614" type="line"/>
+      <point x="912" y="676" type="line"/>
+      <point x="234" y="676" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="414" type="line"/>
+      <point x="204" y="527"/>
+      <point x="298" y="692"/>
+      <point x="343" y="819" type="curve"/>
+      <point x="282" y="838" type="line"/>
+      <point x="235" y="704"/>
+      <point x="152" y="568"/>
+      <point x="42" y="458" type="curve"/>
+    </contour>
+    <contour>
+      <point x="121" y="43" type="line"/>
+      <point x="226" y="159"/>
+      <point x="301" y="291"/>
+      <point x="345" y="425" type="curve"/>
+      <point x="283" y="443" type="line"/>
+      <point x="240" y="316"/>
+      <point x="173" y="197"/>
+      <point x="69" y="86" type="curve"/>
+    </contour>
+    <contour>
+      <point x="941" y="76" type="line"/>
+      <point x="884" y="209"/>
+      <point x="815" y="344"/>
+      <point x="747" y="451" type="curve"/>
+      <point x="687" y="425" type="line"/>
+      <point x="756" y="312"/>
+      <point x="820" y="185"/>
+      <point x="879" y="46" type="curve"/>
+    </contour>
+    <contour>
+      <point x="482" y="-59" type="line" smooth="yes"/>
+      <point x="533" y="-59"/>
+      <point x="556" y="-37"/>
+      <point x="556" y="13" type="curve" smooth="yes"/>
+      <point x="556" y="639" type="line"/>
+      <point x="491" y="639" type="line"/>
+      <point x="491" y="3" type="line"/>
+      <point x="299" y="3" type="line"/>
+      <point x="317" y="-59" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>7</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

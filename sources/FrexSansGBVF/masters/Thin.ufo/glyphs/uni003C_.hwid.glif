@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni003C.hwid" format="2">
+  <advance width="500" height="1000"/>
+  <guideline x="0" y="380" angle="0"/>
+  <outline>
+    <contour>
+      <point x="476" y="101" type="line"/>
+      <point x="476" y="124" type="line"/>
+      <point x="47" y="379" type="line"/>
+      <point x="47" y="381" type="line"/>
+      <point x="476" y="636" type="line"/>
+      <point x="476" y="659" type="line"/>
+      <point x="24" y="389" type="line"/>
+      <point x="24" y="371" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>width</key>
+        <real>83.4</real>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

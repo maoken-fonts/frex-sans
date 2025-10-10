@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni03C4.fwid" format="2">
+  <advance width="1000" height="1000"/>
+  <outline>
+    <contour>
+      <point x="632" y="0" type="line"/>
+      <point x="632" y="19" type="line"/>
+      <point x="500" y="19" type="line"/>
+      <point x="500" y="512" type="line"/>
+      <point x="726" y="512" type="line"/>
+      <point x="726" y="531" type="line"/>
+      <point x="271" y="531" type="line"/>
+      <point x="271" y="512" type="line"/>
+      <point x="479" y="512" type="line"/>
+      <point x="479" y="30" type="line" smooth="yes"/>
+      <point x="479" y="9"/>
+      <point x="489" y="0"/>
+      <point x="510" y="0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

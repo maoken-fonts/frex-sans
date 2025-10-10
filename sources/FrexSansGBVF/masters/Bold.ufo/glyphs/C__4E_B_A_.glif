@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C_4EBA" format="2">
+  <advance width="1000" height="1000"/>
+  <outline>
+    <contour>
+      <point x="99" y="348" type="line"/>
+      <point x="351" y="504"/>
+      <point x="466" y="617"/>
+      <point x="487" y="778" type="curve"/>
+      <point x="497" y="778" type="line"/>
+      <point x="518" y="617"/>
+      <point x="639" y="504"/>
+      <point x="902" y="348" type="curve"/>
+      <point x="977" y="470" type="line"/>
+      <point x="739" y="605"/>
+      <point x="629" y="704"/>
+      <point x="576" y="840" type="curve"/>
+      <point x="408" y="840" type="line"/>
+      <point x="355" y="705"/>
+      <point x="262" y="605"/>
+      <point x="23" y="470" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>10</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE47" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FE47"/>
+  <anchor x="500" y="-120" name="BSB"/>
+  <anchor x="120" y="380" name="LSB"/>
+  <anchor x="120" y="-120" name="RSB"/>
+  <anchor x="500" y="380" name="TSB"/>
+  <outline>
+    <contour>
+      <point x="46" y="-55" type="line"/>
+      <point x="101" y="-55" type="line"/>
+      <point x="101" y="165" type="line"/>
+      <point x="899" y="165" type="line"/>
+      <point x="899" y="-55" type="line"/>
+      <point x="954" y="-55" type="line"/>
+      <point x="954" y="235" type="line"/>
+      <point x="46" y="235" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

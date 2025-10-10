@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni222B" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="222B"/>
+  <outline>
+    <contour>
+      <point x="372" y="-89" type="line"/>
+      <point x="479" y="-89" type="line" smooth="yes"/>
+      <point x="500" y="-89"/>
+      <point x="510" y="-80"/>
+      <point x="510" y="-59" type="curve" smooth="yes"/>
+      <point x="510" y="832" type="line"/>
+      <point x="627" y="832" type="line"/>
+      <point x="627" y="851" type="line"/>
+      <point x="520" y="851" type="line" smooth="yes"/>
+      <point x="499" y="851"/>
+      <point x="489" y="842"/>
+      <point x="489" y="821" type="curve" smooth="yes"/>
+      <point x="489" y="-70" type="line"/>
+      <point x="372" y="-70" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

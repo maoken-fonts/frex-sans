@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF1D.vert" format="2">
+  <advance width="1000" height="1000"/>
+  <anchor x="500" y="380" name="rotate"/>
+  <outline>
+    <contour>
+      <point x="597" y="16" type="line"/>
+      <point x="664" y="16" type="line"/>
+      <point x="664" y="744" type="line"/>
+      <point x="597" y="744" type="line"/>
+    </contour>
+    <contour>
+      <point x="336" y="16" type="line"/>
+      <point x="403" y="16" type="line"/>
+      <point x="403" y="744" type="line"/>
+      <point x="336" y="744" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2033.fwid" format="2">
+  <advance width="1000" height="1000"/>
+  <anchor x="0" y="0" name="LSB"/>
+  <anchor x="500" y="0" name="RSB"/>
+  <outline>
+    <contour>
+      <point x="356" y="405" type="line"/>
+      <point x="415" y="734" type="line"/>
+      <point x="340" y="734" type="line"/>
+      <point x="281" y="405" type="line"/>
+    </contour>
+    <contour>
+      <point x="131" y="405" type="line"/>
+      <point x="190" y="734" type="line"/>
+      <point x="115" y="734" type="line"/>
+      <point x="56" y="405" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni8FBB" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="8FBB"/>
+  <outline>
+    <contour>
+      <point x="609" y="79" type="line"/>
+      <point x="677" y="79" type="line"/>
+      <point x="677" y="826" type="line"/>
+      <point x="609" y="826" type="line"/>
+    </contour>
+    <contour>
+      <point x="340" y="474" type="line"/>
+      <point x="954" y="474" type="line"/>
+      <point x="954" y="536" type="line"/>
+      <point x="340" y="536" type="line"/>
+    </contour>
+    <contour>
+      <point x="64" y="-66" type="line"/>
+      <point x="168" y="-26"/>
+      <point x="229" y="37"/>
+      <point x="233" y="113" type="curve"/>
+      <point x="240" y="113" type="line"/>
+      <point x="249" y="26"/>
+      <point x="333" y="-50"/>
+      <point x="489" y="-50" type="curve" smooth="yes"/>
+      <point x="953" y="-50" type="line"/>
+      <point x="963" y="14" type="line"/>
+      <point x="486" y="14" type="line" smooth="yes"/>
+      <point x="359" y="14"/>
+      <point x="268" y="77"/>
+      <point x="268" y="189" type="curve" smooth="yes"/>
+      <point x="268" y="477" type="line"/>
+      <point x="51" y="477" type="line"/>
+      <point x="51" y="415" type="line"/>
+      <point x="202" y="415" type="line"/>
+      <point x="202" y="193" type="line" smooth="yes"/>
+      <point x="202" y="97"/>
+      <point x="153" y="37"/>
+      <point x="41" y="-5" type="curve"/>
+    </contour>
+    <contour>
+      <point x="323" y="616" type="line"/>
+      <point x="258" y="697"/>
+      <point x="184" y="770"/>
+      <point x="123" y="821" type="curve"/>
+      <point x="79" y="780" type="line"/>
+      <point x="141" y="730"/>
+      <point x="212" y="655"/>
+      <point x="276" y="575" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>7</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

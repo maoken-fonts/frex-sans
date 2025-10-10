@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE37" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FE37"/>
+  <anchor x="500" y="-120" name="BSB"/>
+  <anchor x="120" y="380" name="LSB"/>
+  <anchor x="120" y="-120" name="RSB"/>
+  <anchor x="500" y="380" name="TSB"/>
+  <outline>
+    <contour>
+      <point x="40" y="-70" type="line"/>
+      <point x="146" y="-70" type="line"/>
+      <point x="146" y="52" type="line"/>
+      <point x="370" y="52" type="line" smooth="yes"/>
+      <point x="435" y="52"/>
+      <point x="487" y="100"/>
+      <point x="498" y="156" type="curve"/>
+      <point x="502" y="156" type="line"/>
+      <point x="513" y="100"/>
+      <point x="565" y="52"/>
+      <point x="630" y="52" type="curve" smooth="yes"/>
+      <point x="855" y="52" type="line"/>
+      <point x="855" y="-70" type="line"/>
+      <point x="960" y="-70" type="line"/>
+      <point x="960" y="92" type="line" smooth="yes"/>
+      <point x="960" y="146"/>
+      <point x="924" y="189"/>
+      <point x="859" y="189" type="curve" smooth="yes"/>
+      <point x="645" y="189" type="line" smooth="yes"/>
+      <point x="587" y="189"/>
+      <point x="556" y="230"/>
+      <point x="556" y="300" type="curve"/>
+      <point x="444" y="300" type="line"/>
+      <point x="444" y="230"/>
+      <point x="413" y="189"/>
+      <point x="355" y="189" type="curve" smooth="yes"/>
+      <point x="142" y="189" type="line" smooth="yes"/>
+      <point x="77" y="189"/>
+      <point x="40" y="146"/>
+      <point x="40" y="92" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

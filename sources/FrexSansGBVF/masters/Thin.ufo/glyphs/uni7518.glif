@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni7518" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2F62"/>
+  <unicode hex="7518"/>
+  <outline>
+    <contour>
+      <point x="943" y="592" type="line"/>
+      <point x="943" y="610" type="line"/>
+      <point x="57" y="610" type="line"/>
+      <point x="57" y="592" type="line"/>
+    </contour>
+    <contour>
+      <point x="249" y="-68" type="line"/>
+      <point x="249" y="18" type="line"/>
+      <point x="752" y="18" type="line"/>
+      <point x="752" y="-68" type="line"/>
+      <point x="772" y="-68" type="line"/>
+      <point x="772" y="806" type="line"/>
+      <point x="752" y="806" type="line"/>
+      <point x="752" y="36" type="line"/>
+      <point x="249" y="36" type="line"/>
+      <point x="249" y="806" type="line"/>
+      <point x="229" y="806" type="line"/>
+      <point x="229" y="-68" type="line"/>
+    </contour>
+    <contour>
+      <point x="760" y="320" type="line"/>
+      <point x="760" y="338" type="line"/>
+      <point x="239" y="338" type="line"/>
+      <point x="239" y="320" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Bold</key>
+        <string>foreground</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>Bold</key>
+        <string>&lt;default&gt;</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

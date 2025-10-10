@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kosmall-kata" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="1B155"/>
+  <anchor x="103" y="-15" name="LSB"/>
+  <anchor x="910" y="-15" name="RSB"/>
+  <outline>
+    <contour>
+      <point x="748" y="-39" type="line"/>
+      <point x="748" y="535" type="line"/>
+      <point x="218" y="535" type="line"/>
+      <point x="218" y="516" type="line"/>
+      <point x="727" y="516" type="line"/>
+      <point x="727" y="65" type="line"/>
+      <point x="208" y="65" type="line"/>
+      <point x="208" y="46" type="line"/>
+      <point x="727" y="46" type="line"/>
+      <point x="727" y="-39" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

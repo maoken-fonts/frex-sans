@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni03B4.fwid" format="2">
+  <advance width="1000" height="1000"/>
+  <outline>
+    <contour>
+      <point x="500" y="-13" type="curve" smooth="yes"/>
+      <point x="646" y="-13"/>
+      <point x="733" y="81"/>
+      <point x="733" y="244" type="curve" smooth="yes"/>
+      <point x="733" y="363"/>
+      <point x="693" y="451"/>
+      <point x="503" y="617" type="curve" smooth="yes"/>
+      <point x="340" y="760" type="line"/>
+      <point x="340" y="761" type="line"/>
+      <point x="402" y="758" type="line"/>
+      <point x="699" y="758" type="line"/>
+      <point x="699" y="777" type="line"/>
+      <point x="319" y="777" type="line"/>
+      <point x="319" y="756" type="line"/>
+      <point x="492" y="602" type="line" smooth="yes"/>
+      <point x="520" y="577"/>
+      <point x="544" y="555"/>
+      <point x="566" y="533" type="curve"/>
+      <point x="566" y="531" type="line"/>
+      <point x="381" y="529"/>
+      <point x="267" y="426"/>
+      <point x="267" y="255" type="curve" smooth="yes"/>
+      <point x="267" y="86"/>
+      <point x="354" y="-13"/>
+    </contour>
+    <contour>
+      <point x="500" y="6" type="curve" smooth="yes"/>
+      <point x="365" y="6"/>
+      <point x="290" y="101"/>
+      <point x="290" y="230" type="curve" smooth="yes"/>
+      <point x="290" y="280" type="line" smooth="yes"/>
+      <point x="290" y="403"/>
+      <point x="379" y="514"/>
+      <point x="580" y="519" type="curve"/>
+      <point x="688" y="408"/>
+      <point x="710" y="342"/>
+      <point x="710" y="257" type="curve" smooth="yes"/>
+      <point x="710" y="219" type="line" smooth="yes"/>
+      <point x="710" y="97"/>
+      <point x="635" y="6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

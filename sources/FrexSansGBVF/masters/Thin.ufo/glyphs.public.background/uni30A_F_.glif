@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni30AF" format="2">
+  <advance width="1000"/>
+  <anchor x="495" y="-115" name="BSB"/>
+  <anchor x="70" y="0" name="LSB"/>
+  <anchor x="955" y="0" name="RSB"/>
+  <anchor x="505" y="850" name="TSB"/>
+  <outline>
+    <contour>
+      <point x="257" y="-13" type="line"/>
+      <point x="584" y="85"/>
+      <point x="816" y="307"/>
+      <point x="842" y="644" type="curve"/>
+      <point x="379" y="644" type="line"/>
+      <point x="379" y="625" type="line"/>
+      <point x="834" y="625" type="line"/>
+      <point x="822" y="635" type="line"/>
+      <point x="791" y="322"/>
+      <point x="576" y="105"/>
+      <point x="253" y="8" type="curve"/>
+      <point x="236" y="55" type="line"/>
+      <point x="289" y="-50" type="line"/>
+    </contour>
+    <contour>
+      <point x="151" y="383" type="line"/>
+      <point x="243" y="457"/>
+      <point x="327" y="539"/>
+      <point x="389" y="633" type="curve"/>
+      <point x="394" y="639" type="line"/>
+      <point x="426" y="691"/>
+      <point x="453" y="739"/>
+      <point x="473" y="786" type="curve"/>
+      <point x="454" y="792" type="line"/>
+      <point x="386" y="634"/>
+      <point x="278" y="507"/>
+      <point x="136" y="398" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

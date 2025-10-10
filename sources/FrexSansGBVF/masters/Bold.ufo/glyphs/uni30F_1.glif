@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni30F1" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="30F1"/>
+  <anchor x="495" y="-85" name="BSB"/>
+  <anchor x="18" y="0" name="LSB"/>
+  <anchor x="985" y="0" name="RSB"/>
+  <anchor x="505" y="850" name="TSB"/>
+  <outline>
+    <contour>
+      <point x="925" y="40" type="line"/>
+      <point x="925" y="168" type="line"/>
+      <point x="547" y="168" type="line"/>
+      <point x="547" y="507" type="line"/>
+      <point x="411" y="507" type="line"/>
+      <point x="411" y="168" type="line"/>
+      <point x="75" y="168" type="line"/>
+      <point x="75" y="40" type="line"/>
+    </contour>
+    <contour>
+      <point x="615" y="301" type="line"/>
+      <point x="740" y="368"/>
+      <point x="848" y="487"/>
+      <point x="882" y="596" type="curve"/>
+      <point x="882" y="720" type="line"/>
+      <point x="135" y="720" type="line"/>
+      <point x="135" y="592" type="line"/>
+      <point x="744" y="592" type="line"/>
+      <point x="708" y="520"/>
+      <point x="631" y="455"/>
+      <point x="536" y="408" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

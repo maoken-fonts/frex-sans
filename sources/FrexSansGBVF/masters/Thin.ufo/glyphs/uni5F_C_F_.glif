@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni5FCF" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="5FCF"/>
+  <outline>
+    <contour>
+      <point x="62" y="357" type="line"/>
+      <point x="97" y="445"/>
+      <point x="115" y="544"/>
+      <point x="122" y="642" type="curve"/>
+      <point x="102" y="645" type="line"/>
+      <point x="95" y="548"/>
+      <point x="78" y="452"/>
+      <point x="46" y="368" type="curve"/>
+    </contour>
+    <contour>
+      <point x="226" y="-70" type="line"/>
+      <point x="226" y="830" type="line"/>
+      <point x="206" y="830" type="line"/>
+      <point x="206" y="-70" type="line"/>
+    </contour>
+    <contour>
+      <point x="362" y="498" type="line"/>
+      <point x="349" y="553"/>
+      <point x="323" y="624"/>
+      <point x="301" y="664" type="curve"/>
+      <point x="285" y="655" type="line"/>
+      <point x="305" y="616"/>
+      <point x="332" y="546"/>
+      <point x="345" y="489" type="curve"/>
+    </contour>
+    <contour>
+      <point x="950" y="424" type="line"/>
+      <point x="364" y="424" type="line"/>
+      <point x="364" y="406" type="line"/>
+      <point x="950" y="406" type="line"/>
+    </contour>
+    <contour>
+      <point x="656" y="-70" type="line"/>
+      <point x="656" y="735" type="line"/>
+      <point x="636" y="735" type="line"/>
+      <point x="636" y="-70" type="line"/>
+    </contour>
+    <contour>
+      <point x="888" y="811" type="line"/>
+      <point x="764" y="763"/>
+      <point x="559" y="722"/>
+      <point x="391" y="707" type="curve"/>
+      <point x="395" y="689" type="line"/>
+      <point x="556" y="704"/>
+      <point x="763" y="743"/>
+      <point x="896" y="794" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Bold</key>
+        <string>foreground</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>Bold</key>
+        <string>&lt;default&gt;</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

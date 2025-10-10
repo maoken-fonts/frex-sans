@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni516B" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2F0B"/>
+  <unicode hex="516B"/>
+  <outline>
+    <contour>
+      <point x="955" y="-3" type="line"/>
+      <point x="760" y="192"/>
+      <point x="693" y="406"/>
+      <point x="685" y="813" type="curve"/>
+      <point x="616" y="809" type="line"/>
+      <point x="625" y="387"/>
+      <point x="700" y="154"/>
+      <point x="907" y="-58" type="curve"/>
+    </contour>
+    <contour>
+      <point x="99" y="-58" type="line"/>
+      <point x="283" y="140"/>
+      <point x="364" y="372"/>
+      <point x="373" y="793" type="curve"/>
+      <point x="304" y="799" type="line"/>
+      <point x="298" y="396"/>
+      <point x="224" y="176"/>
+      <point x="51" y="-7" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

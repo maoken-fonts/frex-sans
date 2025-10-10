@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni3057" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="3057"/>
+  <anchor x="485" y="-120" name="BSB"/>
+  <anchor x="90" y="0" name="LSB"/>
+  <anchor x="950" y="0" name="RSB"/>
+  <anchor x="515" y="860" name="TSB"/>
+  <outline>
+    <contour>
+      <point x="248" y="279" type="line" smooth="yes"/>
+      <point x="238" y="77"/>
+      <point x="333" y="-21"/>
+      <point x="508" y="-21" type="curve" smooth="yes"/>
+      <point x="703" y="-21"/>
+      <point x="827" y="117"/>
+      <point x="884" y="360" type="curve"/>
+      <point x="815" y="380" type="line"/>
+      <point x="760" y="153"/>
+      <point x="660" y="49"/>
+      <point x="507" y="49" type="curve" smooth="yes"/>
+      <point x="379" y="49"/>
+      <point x="312" y="120"/>
+      <point x="320" y="276" type="curve" smooth="yes"/>
+      <point x="347" y="795" type="line"/>
+      <point x="274" y="797" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni5455" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="5455"/>
+  <outline>
+    <contour>
+      <point x="137" y="6" type="line"/>
+      <point x="137" y="714" type="line"/>
+      <point x="276" y="714" type="line"/>
+      <point x="276" y="112" type="line"/>
+      <point x="335" y="112" type="line"/>
+      <point x="335" y="770" type="line"/>
+      <point x="77" y="770" type="line"/>
+      <point x="77" y="6" type="line"/>
+    </contour>
+    <contour>
+      <point x="313" y="112" type="line"/>
+      <point x="313" y="168" type="line"/>
+      <point x="101" y="168" type="line"/>
+      <point x="101" y="112" type="line"/>
+    </contour>
+    <contour>
+      <point x="547" y="75" type="line"/>
+      <point x="690" y="228"/>
+      <point x="823" y="438"/>
+      <point x="897" y="667" type="curve"/>
+      <point x="843" y="689" type="line"/>
+      <point x="775" y="462"/>
+      <point x="643" y="257"/>
+      <point x="505" y="119" type="curve"/>
+    </contour>
+    <contour>
+      <point x="921" y="125" type="line"/>
+      <point x="821" y="296"/>
+      <point x="686" y="504"/>
+      <point x="570" y="655" type="curve"/>
+      <point x="524" y="620" type="line"/>
+      <point x="642" y="473"/>
+      <point x="778" y="264"/>
+      <point x="873" y="90" type="curve"/>
+    </contour>
+    <contour>
+      <point x="958" y="-40" type="line"/>
+      <point x="958" y="18" type="line"/>
+      <point x="475" y="18" type="line"/>
+      <point x="475" y="740" type="line"/>
+      <point x="955" y="740" type="line"/>
+      <point x="955" y="797" type="line"/>
+      <point x="413" y="797" type="line"/>
+      <point x="413" y="-40" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

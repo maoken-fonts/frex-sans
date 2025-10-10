@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni30CA" format="2">
+  <advance width="1000"/>
+  <anchor x="495" y="-85" name="BSB"/>
+  <anchor x="45" y="0" name="LSB"/>
+  <anchor x="970" y="0" name="RSB"/>
+  <anchor x="505" y="865" name="TSB"/>
+  <outline>
+    <contour>
+      <point x="248" y="-3" type="line"/>
+      <point x="454" y="86"/>
+      <point x="540" y="185"/>
+      <point x="540" y="429" type="curve" smooth="yes"/>
+      <point x="540" y="782" type="line"/>
+      <point x="519" y="782" type="line"/>
+      <point x="519" y="432" type="line"/>
+      <point x="519" y="198"/>
+      <point x="440" y="104"/>
+      <point x="244" y="18" type="curve"/>
+      <point x="231" y="52" type="line"/>
+      <point x="274" y="-22" type="line"/>
+    </contour>
+    <contour>
+      <point x="908" y="502" type="line"/>
+      <point x="908" y="521" type="line"/>
+      <point x="112" y="521" type="line"/>
+      <point x="112" y="502" type="line"/>
+    </contour>
+  </outline>
+</glyph>

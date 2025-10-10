@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni4E3C" format="2">
+  <advance width="1000"/>
+  <unicode hex="4E3C"/>
+  <outline>
+    <contour>
+      <point x="93" y="-57" type="line"/>
+      <point x="248" y="40"/>
+      <point x="303" y="145"/>
+      <point x="303" y="345" type="curve" smooth="yes"/>
+      <point x="303" y="830" type="line"/>
+      <point x="283" y="830" type="line"/>
+      <point x="283" y="340" type="line" smooth="yes"/>
+      <point x="283" y="142"/>
+      <point x="225" y="50"/>
+      <point x="82" y="-40" type="curve"/>
+    </contour>
+    <contour>
+      <point x="940" y="231" type="line"/>
+      <point x="940" y="249" type="line"/>
+      <point x="60" y="249" type="line"/>
+      <point x="60" y="231" type="line"/>
+    </contour>
+    <contour>
+      <point x="616" y="345" type="line"/>
+      <point x="562" y="406"/>
+      <point x="464" y="490"/>
+      <point x="391" y="538" type="curve"/>
+      <point x="379" y="524" type="line"/>
+      <point x="451" y="476"/>
+      <point x="551" y="390"/>
+      <point x="602" y="332" type="curve"/>
+    </contour>
+    <contour>
+      <point x="726" y="-70" type="line"/>
+      <point x="726" y="830" type="line"/>
+      <point x="706" y="830" type="line"/>
+      <point x="706" y="-70" type="line"/>
+    </contour>
+    <contour>
+      <point x="935" y="626" type="line"/>
+      <point x="935" y="644" type="line"/>
+      <point x="65" y="644" type="line"/>
+      <point x="65" y="626" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>8</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Bold</key>
+        <string>foreground</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>Bold</key>
+        <string>&lt;default&gt;</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

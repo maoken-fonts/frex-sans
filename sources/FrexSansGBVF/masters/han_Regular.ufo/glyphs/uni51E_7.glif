@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni51E7" format="2">
+  <advance width="1000"/>
+  <unicode hex="51E7"/>
+  <outline>
+    <contour>
+      <point x="513" y="-62" type="line"/>
+      <point x="513" y="683" type="line"/>
+      <point x="451" y="683" type="line"/>
+      <point x="451" y="-62" type="line"/>
+    </contour>
+    <contour>
+      <point x="343" y="43" type="line"/>
+      <point x="343" y="515" type="line"/>
+      <point x="631" y="515" type="line"/>
+      <point x="631" y="116" type="line"/>
+      <point x="555" y="116" type="line"/>
+      <point x="569" y="56" type="line"/>
+      <point x="636" y="56" type="line" smooth="yes"/>
+      <point x="673" y="56"/>
+      <point x="693" y="76"/>
+      <point x="693" y="112" type="curve" smooth="yes"/>
+      <point x="693" y="573" type="line"/>
+      <point x="281" y="573" type="line"/>
+      <point x="281" y="43" type="line"/>
+    </contour>
+    <contour>
+      <point x="95" y="-67" type="line"/>
+      <point x="168" y="68"/>
+      <point x="197" y="214"/>
+      <point x="197" y="491" type="curve" smooth="yes"/>
+      <point x="197" y="735" type="line"/>
+      <point x="778" y="735" type="line"/>
+      <point x="778" y="454" type="line" smooth="yes"/>
+      <point x="778" y="138"/>
+      <point x="808" y="8"/>
+      <point x="867" y="-46" type="curve"/>
+      <point x="904" y="-78"/>
+      <point x="943" y="-63"/>
+      <point x="949" y="-10" type="curve" smooth="yes"/>
+      <point x="970" y="182" type="line"/>
+      <point x="920" y="208" type="line"/>
+      <point x="901" y="1" type="line"/>
+      <point x="864" y="46"/>
+      <point x="840" y="150"/>
+      <point x="840" y="462" type="curve" smooth="yes"/>
+      <point x="840" y="791" type="line"/>
+      <point x="135" y="791" type="line"/>
+      <point x="135" y="487" type="line" smooth="yes"/>
+      <point x="135" y="221"/>
+      <point x="109" y="99"/>
+      <point x="43" y="-20" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>7</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni58EF" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="58EF"/>
+  <outline>
+    <contour>
+      <point x="102" y="-75" type="line"/>
+      <point x="178" y="48"/>
+      <point x="196" y="173"/>
+      <point x="196" y="316" type="curve" smooth="yes"/>
+      <point x="196" y="356" type="line"/>
+      <point x="136" y="356" type="line"/>
+      <point x="136" y="310" type="line" smooth="yes"/>
+      <point x="136" y="188"/>
+      <point x="122" y="75"/>
+      <point x="49" y="-35" type="curve"/>
+    </contour>
+    <contour>
+      <point x="298" y="-90" type="line"/>
+      <point x="359" y="-90" type="line"/>
+      <point x="359" y="818" type="line"/>
+      <point x="298" y="818" type="line"/>
+    </contour>
+    <contour>
+      <point x="48" y="376" type="line"/>
+      <point x="48" y="317" type="line"/>
+      <point x="333" y="317" type="line"/>
+      <point x="333" y="376" type="line"/>
+    </contour>
+    <contour>
+      <point x="139" y="787" type="line"/>
+      <point x="79" y="787" type="line"/>
+      <point x="79" y="512" type="line"/>
+      <point x="334" y="512" type="line"/>
+      <point x="334" y="570" type="line"/>
+      <point x="139" y="570" type="line"/>
+    </contour>
+    <contour>
+      <point x="706" y="833" type="line"/>
+      <point x="642" y="833" type="line"/>
+      <point x="642" y="21" type="line"/>
+      <point x="417" y="21" type="line"/>
+      <point x="417" y="-39" type="line"/>
+      <point x="937" y="-39" type="line"/>
+      <point x="937" y="21" type="line"/>
+      <point x="706" y="21" type="line"/>
+    </contour>
+    <contour>
+      <point x="404" y="494" type="line"/>
+      <point x="404" y="433" type="line"/>
+      <point x="954" y="433" type="line"/>
+      <point x="954" y="494" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

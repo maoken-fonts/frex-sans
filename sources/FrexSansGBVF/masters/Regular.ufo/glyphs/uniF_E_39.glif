@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE39" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FE39"/>
+  <anchor x="500" y="-120" name="BSB"/>
+  <anchor x="500" y="380" name="TSB"/>
+  <outline>
+    <contour>
+      <point x="234" y="129" type="line"/>
+      <point x="766" y="129" type="line"/>
+      <point x="954" y="-70" type="line"/>
+      <point x="954" y="18" type="line"/>
+      <point x="786" y="199" type="line"/>
+      <point x="214" y="199" type="line"/>
+      <point x="45" y="18" type="line"/>
+      <point x="45" y="-70" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

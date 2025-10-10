@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni5C3D" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="5C3D"/>
+  <outline>
+    <contour>
+      <point x="103" y="0" type="line"/>
+      <point x="191" y="135"/>
+      <point x="231" y="301"/>
+      <point x="232" y="479" type="curve"/>
+      <point x="877" y="479" type="line"/>
+      <point x="877" y="787" type="line"/>
+      <point x="167" y="787" type="line"/>
+      <point x="167" y="507" type="line" smooth="yes"/>
+      <point x="167" y="306"/>
+      <point x="133" y="171"/>
+      <point x="46" y="39" type="curve"/>
+    </contour>
+    <contour>
+      <point x="759" y="-20" type="line"/>
+      <point x="637" y="47"/>
+      <point x="444" y="124"/>
+      <point x="305" y="162" type="curve"/>
+      <point x="279" y="108" type="line"/>
+      <point x="425" y="64"/>
+      <point x="592" y="2"/>
+      <point x="729" y="-74" type="curve"/>
+    </contour>
+    <contour>
+      <point x="655" y="259" type="line"/>
+      <point x="578" y="301"/>
+      <point x="436" y="359"/>
+      <point x="336" y="384" type="curve"/>
+      <point x="311" y="331" type="line"/>
+      <point x="411" y="304"/>
+      <point x="541" y="249"/>
+      <point x="627" y="205" type="curve"/>
+    </contour>
+    <contour>
+      <point x="954" y="77" type="line"/>
+      <point x="814" y="201"/>
+      <point x="737" y="328"/>
+      <point x="729" y="507" type="curve"/>
+      <point x="666" y="496" type="line"/>
+      <point x="681" y="296"/>
+      <point x="765" y="156"/>
+      <point x="910" y="28" type="curve"/>
+    </contour>
+    <contour>
+      <point x="233" y="729" type="line"/>
+      <point x="811" y="729" type="line"/>
+      <point x="811" y="537" type="line"/>
+      <point x="233" y="537" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>7</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF07" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FF07"/>
+  <anchor x="0" y="20" name="LSB"/>
+  <anchor x="500" y="20" name="RSB"/>
+  <outline>
+    <contour>
+      <point x="206" y="441" type="line"/>
+      <point x="206" y="777" type="line"/>
+      <point x="74" y="777" type="line"/>
+      <point x="74" y="441" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

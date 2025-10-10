@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni8ACD" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="8ACD"/>
+  <outline>
+    <contour>
+      <point x="362" y="374" type="line"/>
+      <point x="362" y="392" type="line"/>
+      <point x="96" y="392" type="line"/>
+      <point x="96" y="374" type="line"/>
+    </contour>
+    <contour>
+      <point x="362" y="532" type="line"/>
+      <point x="362" y="550" type="line"/>
+      <point x="96" y="550" type="line"/>
+      <point x="96" y="532" type="line"/>
+    </contour>
+    <contour>
+      <point x="380" y="684" type="line"/>
+      <point x="380" y="702" type="line"/>
+      <point x="50" y="702" type="line"/>
+      <point x="50" y="684" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="-70" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="359" y="0" type="line"/>
+      <point x="359" y="236" type="line"/>
+      <point x="100" y="236" type="line"/>
+      <point x="100" y="-70" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="218" type="line"/>
+      <point x="339" y="218" type="line"/>
+      <point x="339" y="18" type="line"/>
+      <point x="120" y="18" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="696" type="line"/>
+      <point x="237" y="746"/>
+      <point x="220" y="795"/>
+      <point x="199" y="840" type="curve"/>
+      <point x="182" y="832" type="line"/>
+      <point x="202" y="788"/>
+      <point x="218" y="741"/>
+      <point x="232" y="697" type="curve"/>
+    </contour>
+    <contour>
+      <point x="395" y="373" type="line"/>
+      <point x="950" y="373" type="line"/>
+      <point x="950" y="391" type="line"/>
+      <point x="395" y="391" type="line"/>
+    </contour>
+    <contour>
+      <point x="633" y="-54" type="line" smooth="yes"/>
+      <point x="660" y="-54"/>
+      <point x="668" y="-46"/>
+      <point x="668" y="-20" type="curve" smooth="yes"/>
+      <point x="668" y="549" type="line"/>
+      <point x="648" y="549" type="line"/>
+      <point x="648" y="-36" type="line"/>
+      <point x="477" y="-36" type="line"/>
+      <point x="482" y="-54" type="line"/>
+    </contour>
+    <contour>
+      <point x="489" y="559" type="line"/>
+      <point x="489" y="541" type="line"/>
+      <point x="855" y="541" type="line"/>
+      <point x="855" y="218" type="line"/>
+      <point x="437" y="218" type="line"/>
+      <point x="437" y="200" type="line"/>
+      <point x="855" y="200" type="line"/>
+      <point x="855" y="134" type="line"/>
+      <point x="875" y="134" type="line"/>
+      <point x="875" y="559" type="line"/>
+    </contour>
+    <contour>
+      <point x="422" y="535" type="line"/>
+      <point x="506" y="614"/>
+      <point x="580" y="719"/>
+      <point x="619" y="830" type="curve"/>
+      <point x="600" y="834" type="line"/>
+      <point x="568" y="738"/>
+      <point x="497" y="631"/>
+      <point x="412" y="552" type="curve"/>
+    </contour>
+    <contour>
+      <point x="798" y="719" type="line"/>
+      <point x="772" y="668"/>
+      <point x="729" y="603"/>
+      <point x="683" y="556" type="curve"/>
+      <point x="705" y="552" type="line"/>
+      <point x="747" y="596"/>
+      <point x="788" y="656"/>
+      <point x="821" y="721" type="curve"/>
+      <point x="821" y="737" type="line"/>
+      <point x="565" y="737" type="line"/>
+      <point x="565" y="719" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Bold</key>
+        <string>foreground</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>Bold</key>
+        <string>&lt;default&gt;</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

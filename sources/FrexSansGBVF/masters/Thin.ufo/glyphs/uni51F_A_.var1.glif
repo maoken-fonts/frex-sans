@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni51FA.var1" format="2">
+  <advance width="1000.0" height="1000"/>
+  <outline>
+    <contour>
+      <point x="502.0" y="-39.0" type="line"/>
+      <point x="502.0" y="830.0" type="line"/>
+      <point x="482.0" y="830.0" type="line"/>
+      <point x="482.0" y="-39.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="860.0" y="455.0" type="line"/>
+      <point x="860.0" y="760.0" type="line"/>
+      <point x="840.0" y="760.0" type="line"/>
+      <point x="840.0" y="473.0" type="line"/>
+      <point x="161.0" y="473.0" type="line"/>
+      <point x="161.0" y="760.0" type="line"/>
+      <point x="141.0" y="760.0" type="line"/>
+      <point x="141.0" y="455.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="838.1449046383029" y="-51.0" type="line"/>
+      <point x="853.1449046383029" y="-51.0"/>
+      <point x="860.1449046383029" y="-48.0"/>
+      <point x="860.1449046383029" y="-40.0" type="curve"/>
+      <point x="864.1449046383029" y="-40.0" type="line"/>
+      <point x="864.1449046383029" y="-56.0" type="line"/>
+      <point x="884.1449046383029" y="-56.0" type="line"/>
+      <point x="884.1449046383029" y="334.2773953278413" type="line"/>
+      <point x="864.1449046383029" y="334.2773953278413" type="line"/>
+      <point x="864.1449046383029" y="-33.0" type="line"/>
+      <point x="136.0" y="-33.0" type="line"/>
+      <point x="136.0" y="334.2773953278413" type="line"/>
+      <point x="116.0" y="334.2773953278413" type="line"/>
+      <point x="116.0" y="-51.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>8</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Thin</key>
+        <string>foreground</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>Thin</key>
+        <string>&lt;default&gt;</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

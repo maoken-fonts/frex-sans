@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni03C8.fwid" format="2">
+  <advance width="1000" height="1000"/>
+  <outline>
+    <contour>
+      <point x="572" y="-210" type="line"/>
+      <point x="572" y="-13" type="line"/>
+      <point x="759" y="-13"/>
+      <point x="848" y="77"/>
+      <point x="848" y="266" type="curve" smooth="yes"/>
+      <point x="848" y="550" type="line"/>
+      <point x="700" y="550" type="line"/>
+      <point x="700" y="233" type="line" smooth="yes"/>
+      <point x="700" y="141"/>
+      <point x="656" y="102"/>
+      <point x="572" y="102" type="curve"/>
+      <point x="572" y="733" type="line"/>
+      <point x="427" y="733" type="line"/>
+      <point x="427" y="102" type="line"/>
+      <point x="343" y="102"/>
+      <point x="299" y="141"/>
+      <point x="299" y="233" type="curve" smooth="yes"/>
+      <point x="299" y="550" type="line"/>
+      <point x="151" y="550" type="line"/>
+      <point x="151" y="266" type="line" smooth="yes"/>
+      <point x="151" y="77"/>
+      <point x="240" y="-13"/>
+      <point x="427" y="-13" type="curve"/>
+      <point x="427" y="-210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

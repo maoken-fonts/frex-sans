@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni5C7E.var1" format="2">
+  <advance width="1000.0" height="1000"/>
+  <outline>
+    <contour>
+      <point x="699.0" y="830.0" type="line"/>
+      <point x="699.0" y="-36.0" type="line"/>
+      <point x="719.0" y="-36.0" type="line"/>
+      <point x="719.0" y="830.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="242.0" y="830.0" type="line"/>
+      <point x="242.0" y="70.0" type="line"/>
+      <point x="262.0" y="70.0" type="line"/>
+      <point x="262.0" y="830.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="109.0" y="-18.0" type="line"/>
+      <point x="109.0" y="62.0" type="line"/>
+      <point x="417.0" y="62.0" type="line"/>
+      <point x="417.0" y="703.0" type="line"/>
+      <point x="397.0" y="703.0" type="line"/>
+      <point x="397.0" y="80.0" type="line"/>
+      <point x="110.0" y="80.0" type="line"/>
+      <point x="110.0" y="703.0" type="line"/>
+      <point x="90.0" y="703.0" type="line"/>
+      <point x="90.0" y="-18.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="869.012" y="-50.0" type="line"/>
+      <point x="884.012" y="-50.0"/>
+      <point x="891.012" y="-47.0"/>
+      <point x="891.012" y="-39.0" type="curve"/>
+      <point x="895.012" y="-39.0" type="line"/>
+      <point x="895.012" y="-55.0" type="line"/>
+      <point x="915.012" y="-55.0" type="line"/>
+      <point x="915.012" y="657.95" type="line"/>
+      <point x="895.012" y="657.95" type="line"/>
+      <point x="895.012" y="-32.0" type="line"/>
+      <point x="533.0" y="-32.0" type="line"/>
+      <point x="533.0" y="657.95" type="line"/>
+      <point x="513.0" y="657.95" type="line"/>
+      <point x="513.0" y="-50.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>8</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Thin</key>
+        <string>foreground</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>Thin</key>
+        <string>&lt;default&gt;</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

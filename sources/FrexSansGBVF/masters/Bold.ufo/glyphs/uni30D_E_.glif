@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni30DE" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="30DE"/>
+  <anchor x="495" y="-61" name="BSB"/>
+  <anchor x="25" y="0" name="LSB"/>
+  <anchor x="980" y="0" name="RSB"/>
+  <anchor x="505" y="862" name="TSB"/>
+  <outline>
+    <contour>
+      <point x="545" y="218" type="line"/>
+      <point x="686" y="310"/>
+      <point x="833" y="440"/>
+      <point x="905" y="595" type="curve"/>
+      <point x="905" y="720" type="line"/>
+      <point x="95" y="720" type="line"/>
+      <point x="95" y="590" type="line"/>
+      <point x="793" y="590" type="line"/>
+      <point x="766" y="612" type="line"/>
+      <point x="719" y="520"/>
+      <point x="596" y="402"/>
+      <point x="457" y="317" type="curve"/>
+    </contour>
+    <contour>
+      <point x="229" y="371" type="line"/>
+      <point x="365" y="254"/>
+      <point x="486" y="129"/>
+      <point x="610" y="-26" type="curve"/>
+      <point x="708" y="72" type="line"/>
+      <point x="589" y="216"/>
+      <point x="460" y="350"/>
+      <point x="325" y="467" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

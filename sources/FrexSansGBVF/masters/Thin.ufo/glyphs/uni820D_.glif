@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni820D" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="820D"/>
+  <outline>
+    <contour>
+      <point x="925" y="373" type="line"/>
+      <point x="925" y="391" type="line"/>
+      <point x="75" y="391" type="line"/>
+      <point x="75" y="373" type="line"/>
+    </contour>
+    <contour>
+      <point x="502" y="219" type="line"/>
+      <point x="502" y="551" type="line"/>
+      <point x="482" y="551" type="line"/>
+      <point x="482" y="219" type="line"/>
+    </contour>
+    <contour>
+      <point x="736" y="542" type="line"/>
+      <point x="736" y="560" type="line"/>
+      <point x="262" y="560" type="line"/>
+      <point x="262" y="542" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="501" type="line"/>
+      <point x="311" y="605"/>
+      <point x="442" y="708"/>
+      <point x="490" y="820" type="curve"/>
+      <point x="494" y="820" type="line"/>
+      <point x="541" y="708"/>
+      <point x="684" y="605"/>
+      <point x="956" y="501" type="curve"/>
+      <point x="963" y="518" type="line"/>
+      <point x="694" y="619"/>
+      <point x="557" y="721"/>
+      <point x="502" y="833" type="curve"/>
+      <point x="482" y="833" type="line"/>
+      <point x="427" y="721"/>
+      <point x="301" y="619"/>
+      <point x="37" y="518" type="curve"/>
+    </contour>
+    <contour>
+      <point x="177" y="228" type="line"/>
+      <point x="177" y="-70" type="line"/>
+      <point x="197" y="-70" type="line"/>
+      <point x="197" y="-18" type="line"/>
+      <point x="803" y="-18" type="line"/>
+      <point x="803" y="-70" type="line"/>
+      <point x="823" y="-70" type="line"/>
+      <point x="823" y="228" type="line"/>
+    </contour>
+    <contour>
+      <point x="197" y="210" type="line"/>
+      <point x="803" y="210" type="line"/>
+      <point x="803" y="0" type="line"/>
+      <point x="197" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Bold</key>
+        <string>foreground</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>Bold</key>
+        <string>&lt;default&gt;</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
